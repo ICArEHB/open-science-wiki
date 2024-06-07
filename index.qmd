@@ -1,0 +1,41 @@
+## Our vision of Open Science {.unnumbered}
+
+The core mission of ICArEHB is to build an integrative understanding of human behavior in prehistoric times and assure that the main outputs of this research are new and outstanding knowledge, ideas, and understanding in the fields of prehistoric archaeology and human evolution, that can be shared with other scientists and with the society.
+
+Particularly, the destructive nature of archaeology means that we must stick to the highest standards; we must leave a maximum of elements available for other scientists and the future generation of archaeologists. To keep these standards, ICArEHB embraces the concept of Open Science, i.e., research that is transparent and allows reproducibility, the best guarantee to stay at the forefront. It means that, as much as possible, our research projects are validated by our peers before we start it, our procedures, software, and code, are made accessible to others, and our results are shared with various audiences (e.g., other scientists, the general public, policymakers) and our data are archived for the future.
+
+### Open methodologies
+
+Did you know that even before it starts, projects can be examined and validated by other experts? This is the case for all projects funded in ICArEHB, which go through peer review either by the third-party funder or by an internal review process.
+
+In addition, we encourage our researchers to pre-register their study in journals and platforms allowing this format. This ensures that our study plans are robust and helps to reduce the bias of publication, so all results are shared, even if less exciting than expected.
+
+### Open source
+
+As much as possible, we use open-source software and file formats that everyone can use. When we write code, or new software and apps, we publish them and assure that they are available for the rest of the community. Check out some of these examples here and here.
+
+### Open publications
+
+Our scientific outputs are published in the form of articles, monographs, handbooks, etc., privileging those platforms that will make our research most visible to our peers, the scientific community, and the general public.
+
+In ICArEHB, all articles led by our integrated researchers are in Open Access on the journal website or on the platform of publication. This means that we prefer to pay to make sure that everyone can have access to our production instead of asking the readers to pay. You can consult our list of publications and respective links here. 
+
+### Open communication
+
+Scientific publication is not a piece of cake, especially if you are not used to it. In ICArEHB, we make a special effort to share our results and our conclusions with other parts of society, with adapted media. The Science Communication Lab is dedicated to inventing new formats and producing content for our outreach actions. 
+
+Check here our past and future events of outreach. If you would like ICArEHB to participate in school activities or in a fair, please contact us to discuss possibilities.
+
+We exchange updates on good practices in archaeology through our collaboration with the company of contractual archaeology ERA Arqueologia.
+
+We also make special efforts to transform scientific work into policy when necessary.
+
+### Open data
+
+Publications and communications are just the tip of the iceberg when it comes to research, and the text, tables, and images that we publish are just elements of a frontpage advertisement to the many hours of recording, processing, and analysis of what is one of the most valuable ICArEHB's contributions to the world: our data!
+
+Factual data is the cornerstone of science, and access to data is crucial in fully understanding and extending the work of others. Providing free and general access to our data is the most effective way of ensuring that the fruits of the research can be accessed, read, and used as the basis for further research.
+
+Bringing together the current demands of funding agencies with our will to transform the way people share archaeological data, ICArEHB offers a series of [guidelines](intro.qmd) to researchers, so they can assess the open science level of a specific study, publication, or project.
+
+This guide tries to tackle most of the current demands for open science. It is built around the use of trusted platforms that can support our researchers throughout their entire project lifecycle, centralizing as much as possible the different parts of the process, including Preregistrations, Data Storage and Versioning, Pre-prints, License attribution, Persistent Identifier Creation, Metadata creation for maximum machine-actionable Findability, Accessibility, Interoperability, and Re-usability (FAIR).

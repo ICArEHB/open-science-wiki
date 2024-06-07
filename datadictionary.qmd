@@ -1,0 +1,9 @@
+# 4. Data Dictionary {.unnumbered}
+
+A data dictionary or a code book serves as a guide for interpreting the metadata of your data files, explaining the meanings of variable names and values. By providing clear documentation of your data, a codebook can enhance the reproducibility of your research. It can be particularly useful for facilitating collaborations and ensuring that you and others can understand and use the data in the future. Additionally, if you intend to share your datasets, creating a codebook is strongly recommended.
+
+Prior to embarking on the creation of a data dictionary, it may be advisable to peruse this introductory guide on producing codebooks and datasets that can be readily shared:
+
+[Buchanan, E. M., Crain, S. E., Cunningham, A. L., Johnson, H. R., Stash, H. E., Papadatou-Pastou, M., ... Aczel, B. (2019, May 20). Getting Started Creating Data Dictionaries: How to Create a Shareable Dataset. https://doi.org/10.31219/osf.io/vd4y3](https://osf.io/vd4y3/)
+
+If you use R to analyze your data, you can use the [codebook package](https://rubenarslan.github.io/codebook/index.html) to create a codebook based on the dataframe you are working with.

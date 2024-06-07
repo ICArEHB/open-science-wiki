@@ -1,0 +1,55 @@
+# 1. Pre-Registration {.unnumbered}
+
+### **Pre-registration**
+
+A preregistration is a document that outlines the plan for conducting research before any data is collected or analyzed. This document, which typically includes the introduction and methods sections of a research paper, serves as a time-stamped record of the research plan. At a minimum, a preregistration should include the hypotheses to be tested, the methodology and variables that will be used (including the design, sample, stopping rule, exclusion criteria, procedure, and variables), the analysis plan (including statistical tests, transformations, and assumption tests), and the criteria for inferring whether the hypotheses have been confirmed or rejected.
+
+### **Why should I pre-register my research?**
+
+There are several reasons why you should consider preregistering your research:
+
+-   To clearly distinguish between confirmatory and exploratory analyses and avoid presenting exploratory results as if they were hypothesized.
+
+-   To maintain transparency, preventing selective reporting and p-hacking.
+
+-   To contribute to reducing the file drawer problem and publication bias.
+
+-   To serve as a safety net for your future self: by preregistering your research, you won't have to rely on memory to recall your plans and methods. You'll only need to execute your plan (and report any deviations from it).
+
+-   For more reasons to preregister, you may want to read [this article](https://www.psychologicalscience.org/observer/seven-selfish-reasons-for-preregistration#.WR3HblMrLOS)
+
+### **Pre-registration dilemmas**
+
+Preregistration can raise some dilemmas, but they are all easily addressed:
+
+-   "Preregistration costs too much time." The time you spend on preregistration is time you would normally spend after data collection. Preregistration can save you time because you won't waste time on pointless analyses; you've already written your introduction and methods sections.
+
+-   "What if my research doesn't go according to plan?" You can add an addendum to your preregistration before the analysis to explain any deviations from the plan. Afterward, report any deviations in your manuscript. Transparency is the goal.
+
+-   "No one will ever look at my preregistration." You can use the preregistration as a reminder for yourself, as a justification to reviewers of your manuscript, and to inspire colleagues and interested researchers with your open attitude. Go for it!
+
+### **How can I pre-register?**
+
+See [this link](https://osf.io/sgrk6/) for an easy tutorial on how to preregister on the Open Science Framework (OSF). Don't forget to include your collaborators and include the link to your preregistration in your manuscript.
+
+### **What are Registered Reports?**
+
+Registered Reports are a type of preregistration that undergoes peer review by journals. This greatly reduces publication bias because at Stage 1 peer review, reviewers do not know the results, so manuscripts cannot be accepted or rejected based on them. The process of Registered Reports is shown below:
+
+![Source: <https://eur-synclab.github.io/open-science/preregistration.html>](regreports.png){width="600"}
+
+After your preregistration has received an In Principle Acceptance (Stage 1), you can start collecting data and writing up your results. Most journals that get through Stage 1 will also get accepted in Stage 2, because the study design has already been reviewed.
+
+## **Resources**
+
+-   All [OSF templates](https://osf.io/zab38/wiki/home/)
+
+-   A list of [resources on preregistration](https://www.cos.io/our-services/prereg)
+
+-   Information about [Registered Reports](https://www.cos.io/our-services/registered-reports)
+
+-   Overview of [all journals doing Registered Reports](https://docs.google.com/spreadsheets/d/1D4_k-8C_UENTRtbPzXfhjEyu3BfLxdOsn9j-otrO870/edit?usp=sharing)
+
+-   A preregistration tutorial and template for [secondary data analysis](https://psyarxiv.com/hvfmr)
+
+-   Preregistration: [dream vs. reality](https://psyarxiv.com/d8wex/)

@@ -1,0 +1,53 @@
+# 2. Data Management Plan (DMP) {.unnumbered}
+
+### **What is a Data Management Plan?**
+
+A data management plan (DMP) is a document that outlines how data will be collected, organized, stored, preserved, and shared during a research project. A DMP is usually required by funding agencies, publishers, or institutions as a way to ensure that research data are managed appropriately and meet legal, ethical, and practical standards.
+
+### **What are the main components of a DMP?**
+
+The main components of a DMP may include:
+
+-   Description of the data: What type of data will be collected or generated, and how will they be structured?
+
+-   Data collection methods: How will the data be collected (e.g., surveys, experiments, observations), and what tools or equipment will be used?
+
+-   Data organization and documentation: How will the data be named, labeled, and organized to ensure consistency and usability?
+
+-   Data storage and backup: Where and how will the data be stored (e.g., local servers, cloud-based platforms), and how often will they be backed up?
+
+-   Data sharing and reuse: Who will have access to the data, under what conditions, and for what purposes?
+
+-   Data retention and preservation: How long will the data be kept, and how will they be preserved and made accessible after the end of the project?
+
+### **General steps to write a DMP**
+
+-   Identify the key data types and formats you will collect or generate during your research project.
+
+-   Determine how you will organize and store the data. Consider factors such as security, backup, and accessibility.
+
+-   Decide how you will manage any ethical or legal issues related to your data. This may involve obtaining informed consent from participants, ensuring compliance with privacy regulations, or addressing intellectual property rights.
+
+-   Establish guidelines for documenting your data. This may include creating metadata, labeling your files, and maintaining a data dictionary.
+
+-   Develop a plan for sharing your data. Consider what data should be shared, with whom, and under what conditions.
+
+-   Develop a plan for preserving your data after completing your project. Consider how long you will need to keep the data and how you will ensure that it remains accessible and usable.
+
+Some funding agencies, institutions, or publishers may provide templates or guidelines for writing a DMP. Additionally, there are several online tools available, such as the [DMPTool](https://dmptool.org/), [DataOne](https://www.dataone.org/), or [Argos](https://argos.openaire.eu/home) that can help guide you through the process of creating a DMP tailored to your specific needs.
+
+When writing your DMP, it is important to be as specific as possible and to consider all aspects of your data management strategy. Consult with colleagues or data management experts if you need guidance or feedback.
+
+## **Resources**
+
+-   More information about [data management](https://www.uu.nl/en/research/research-data-management/guides/storing-and-preserving-data) (storing, archiving, versioning, data structure, etc.) and [backing up and versioning data](https://www.openaire.eu/raw-data-backup-and-versioning)
+
+-   How to [name your files](https://speakerdeck.com/jennybc/how-to-name-files)
+
+-   The [costs of data management](https://www.uu.nl/en/research/research-data-management/guides/costs-of-data-management)
+
+-   More about [privacy and legal aspects](https://www.eur.nl/en/library/research-support/research-data-management-rdm/privacy-and-legal-aspects)
+
+-   FCT [DMP template](https://myfct.fct.pt/LibDocument/DocumentPatterns.FileDisplay.aspx?EcrypDoctId=omRid7suIkRYq%2BIqLH1qkQ%3D%3D)
+
+-   ERC [DMP template](https://erc.europa.eu/sites/default/files/document/file/ERC-Data-Management-Plan.docx)
