@@ -1,18 +1,6 @@
-# ICArEHB Open Science Wiki
+# ICArEHB Open Science Handbook
 
-In this repository, you can find the source code and contents of the lab wiki of [ICArEHB](www.icarehb.com). The wiki contains information on the different and main concepts of how to comply with our Open Science Policy. Not content with the information displayed here? Feel free to open an issue or make a pull request to suggest changes!
-
-**Link to the published lab wiki**: [https://icarehb.github.io/](https://eur-synclab.github.io/)
-
-This manual is always in progress, so feel free to contribute by adding features, such as:
-
--   images
-
--   changing or adding text
-
--   changes to the chapter structure
-
--   or anything else!
+In this repository, you can find the source code and contents of the [ICArEHB](www.icarehb.com)'s Open Science Handbook.
 
 ## How to contribute?
 
