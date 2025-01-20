@@ -1,0 +1,137 @@
+# Methods, Protocols, and Code Sharing
+
+## Policy on Sharing Methods, Protocols, and Code
+
+ICArEHB is committed to making research methods, protocols, and code openly accessible to ensure transparency, reproducibility, and reusability of research outputs. All research projects that involve the use of custom protocols, methods, or code must make these resources available in an open-access repository.
+
+**Mandatory Sharing**
+
+ICArEHB requires researchers to share the methods, protocols, and code used in their research, particularly those that are essential for replicating the study or advancing further work.
+
+**Open Protocols**
+
+All research protocols should be openly accessible to ensure that others can replicate or adapt the research. Protocols provide a detailed step-by-step guide to conducting experiments or fieldwork, ensuring that methods can be transparently followed.
+
+**Timely Accessibility**
+
+Methods, protocols, and code must be shared no later than the publication of the associated research paper and should preferably be available during peer review.
+
+**Compliance with Ethical and Legal Standards**
+
+While transparency is key, sharing methods, protocols, and code should not violate ethical agreements, intellectual property rights, or privacy concerns.
+
+**Proper Documentation**
+
+All methods, protocols, and code must be properly documented to ensure that others can understand and reuse them.
+
+## Platforms for Sharing Methods, Protocols, and Code
+
+Researchers should use reputable, open-access platforms to share their methods, protocols, and code. These platforms allow for the secure and long-term preservation of resources while enabling others to access, review, and reuse them.
+
+Recommended platforms include:
+
+-   **OSF (Open Science Framework):** OSF supports the sharing of research protocols, methods, and code. Researchers can upload and version their methods alongside data, preprints, and other research outputs, making it a one-stop platform for open research.
+
+-   **Protocols.io:** Protocols.io is a dedicated platform for sharing detailed, step-by-step experimental protocols in various fields, from biology to archaeology. It allows researchers to publish and update protocols, receive feedback, and make them openly available for others to replicate.
+
+-   **GitHub:** GitHub is widely used for sharing and collaborating on code. Researchers can create repositories for their projects, document their code, and use version control to track changes. GitHub integrates with other platforms like Zenodo to ensure long-term preservation.
+
+-   **Zenodo:** Zenodo, developed by CERN, allows researchers to archive and share datasets, code, and protocols. It integrates with GitHub to provide DOIs for code repositories, ensuring long-term accessibility and citation.
+
+-   **GitLab:** GitLab offers similar features to GitHub but allows for more control over hosting and infrastructure. It is a good choice for research projects requiring private repositories or internal hosting.
+
+## Best Practices for Sharing Methods, Protocols, and Code
+
+To ensure that methods, protocols, and code are accessible, reusable, and understandable, researchers should follow these best practices when sharing their work:
+
+**Use Version Control:**
+
+-   Version control (e.g., Git) is essential for tracking changes to protocols and code, ensuring that previous versions are available and that collaborators can contribute without conflicts.
+
+**Provide Detailed Documentation:**
+
+-   For protocols: Include step-by-step instructions for experimental procedures, fieldwork, or data collection, ensuring that all materials, equipment, and conditions are documented.
+
+-   For code: Include README files that explain the code's purpose, usage instructions, dependencies, and installation requirements. Use inline comments to clarify complex code sections.
+
+**Ensure Reproducibility:**
+
+-   Protocols should be described in enough detail that others can replicate the research without ambiguity. Provide exact specifications for equipment, materials, and procedures, and include any contingencies for potential deviations.
+
+-   For code, ensure that all dependencies (e.g., specific libraries, software versions) are clearly stated, and include any necessary installation instructions.
+
+**Keep Code and Protocols Modular:**
+
+-   Break protocols and code into smaller, reusable components. This approach makes it easier to update parts of the workflow without affecting the whole, and it facilitates reuse in other projects.
+
+**Use Standard Formats and Terminology:**
+
+-   For protocols, use standardized formats and terminology whenever possible, referencing established procedures or guidelines. This ensures consistency and enables comparison with similar studies.
+
+-   For code, use widely recognized programming languages (e.g., Python, R) and avoid proprietary formats that require special software or licenses.
+
+**Regularly Update:**
+
+-   Both methods and protocols may evolve during the course of research. Keep protocols up-to-date, versioning any changes, and ensure that the latest version is always available.
+
+## Licensing Code and Protocols
+
+Licensing is a critical part of sharing both protocols and code. It defines how others can reuse, modify, and distribute your work. ICArEHB researchers are encouraged to use open licenses that align with the principles of Open Science.
+
+Common licenses for sharing code and protocols include:
+
+**Creative Commons (CC-BY, CC0)**
+
+For protocols, CC-BY (attribution) allows others to use and adapt the protocol as long as they give credit to the original author. CC0 places the protocol in the public domain, allowing anyone to use it without restrictions.
+
+**MIT License (for code)** A permissive open-source license that allows others to use, copy, modify, and distribute the code. It is minimal in restrictions, making it one of the most widely used open-source licenses.
+
+**GNU General Public License (GPL)** The GPL ensures that any derivative works created using your code must also be open and licensed under the same terms. This ensures that any improvements or modifications remain open to the community.
+
+**Apache License 2.0** A permissive license that allows for reuse and modification of the code, while requiring that original copyrights and disclaimers are maintained in derivative works.
+
+# Checklist for Sharing Methods, Protocols, and Code
+
+Before sharing your methods, protocols, and code, use the following checklist to ensure that they meet ICArEHB's standards for Open Science:
+
+**Protocol Documentation:**
+
+-   [ ] Have I provided a detailed, step-by-step guide to all experimental procedures, data collection methods, and analysis techniques?
+
+-   [ ] Are the materials, equipment, and conditions clearly specified to ensure replicability?
+
+**Code Documentation:**
+
+-   [ ] Have I included a README file that explains the purpose of the code, how to install it, and how to use it?
+
+-   [ ] Is my code sufficiently commented to allow others to understand its function?
+
+**Reproducibility:**
+
+-   [ ] For protocols: Have I ensured that all necessary details are included so that others can replicate the research exactly as it was performed?
+
+-   [ ] For code: Have I listed all dependencies and libraries needed to run the code? Have I included sample data or test cases?
+
+**Version Control:**
+
+-   [ ] Is my code or protocol version-controlled, with a clear history of changes and updates?
+
+-   [ ] Have I tagged important versions (e.g., version 1.0 for the code or protocol used in the published research)?
+
+**Licensing:**
+
+-   [ ] Have I selected an open-source license (e.g., MIT, GPL, CC-BY) that clearly specifies how my code or protocol can be reused and modified by others?
+
+-   [ ] Is the license information clearly visible in the repository?
+
+**Platform Selection:**
+
+-   [ ] Have I selected an appropriate platform for sharing my code and protocols (e.g., GitHub, Zenodo, OSF, Protocols.io)?
+
+-   [ ] Does the platform provide a DOI or persistent identifier to ensure proper citation and long-term accessibility?
+
+**Ethical and Legal Compliance:**
+
+-   [ ] Does my code or protocol comply with all relevant ethical guidelines, especially when handling sensitive data or materials?
+
+-   [ ] Have I ensured that sharing my code or protocol does not infringe on intellectual property rights or violate any proprietary agreements?

@@ -1,3 +1,133 @@
-# 11. Peer review {.unnumbered}
+# Open Peer Review
 
-Soon available
+## Policy on Open Peer Review
+
+ICArEHB supports and encourages its researchers to participate in Open Peer Review as both reviewers and authors. Open peer review enhances transparency by making the review process more open and accountable, ensuring that both the content and quality of reviews can be assessed. ICArEHB researchers are encouraged to embrace this model, which aligns with the broader goals of Open Science.
+
+**Encouragement of Open Peer Review**
+
+Researchers should engage in open peer review whenever possible, as it increases transparency and accountability in the scientific process.
+
+**Disclosure of Peer Review**
+
+When submitting research for publication, ICArEHB researchers are encouraged to disclose the peer review status of the journal (e.g., whether it uses open, single-blind, or double-blind review).
+
+**Public Availability of Reviews**
+
+When acting as reviewers, ICArEHB researchers are encouraged to allow their review reports to be made publicly available, either with or without disclosing their identity, depending on the journal's policies.
+
+## Opportunities for Open Peer Review
+
+Many journals and platforms now offer Open Peer Review options. ICArEHB encourages researchers to both publish in and review for journals that support these practices. The main forms of open peer review include:
+
+**Public Reviewer Reports:**
+
+-   Reviewer reports are published alongside the article, providing readers with insight into the feedback and suggestions that shaped the final version of the paper. This enhances transparency and can improve the quality of both the review and the research.
+
+**Open Identity of Reviewers:**
+
+-   In some open peer review models, the identities of the reviewers are disclosed either during or after the review process. This creates accountability and recognition for reviewers, and can foster constructive, respectful feedback.
+
+**Collaborative Peer Review:**
+
+-   Some journals enable a more collaborative form of peer review, where authors and reviewers engage in dialogue during the review process, improving the manuscript through direct interaction. This can result in more thorough and constructive reviews.
+
+### Platforms supporting Open Peer Review:
+
+-   **Open Research Europe:** A platform funded by the European Commission that uses an open peer review process. Articles are reviewed after publication, and reviewer reports are published with the names of the reviewers and their feedback.
+
+-   **PeerJ:** Offers open peer review as an option, where review reports are published, and reviewers can choose whether or not to disclose their names.
+
+-   **Publons:** While not a publisher, Publons allows reviewers to track and publicly display their peer review contributions across journals, encouraging transparency and providing recognition for peer reviewing efforts.
+
+## Best Practices for Peer Review
+
+Engaging in peer review, whether open or traditional, is a critical responsibility for researchers. To ensure that peer reviews are constructive, ethical, and aligned with Open Science principles, ICArEHB researchers should follow these best practices:
+
+**Provide Constructive Feedback:**
+
+-   Reviews should be detailed, respectful, and aimed at improving the manuscript. Criticisms should be constructive and include actionable suggestions for improvement.
+
+-   Focus on the content, methodology, and interpretation of the research, ensuring that the study is scientifically sound and conclusions are supported by the data.
+
+**Maintain Objectivity:**
+
+-   Reviews should be unbiased and based solely on the merits of the research, regardless of the author's reputation, institution, or previous work. Avoid personal or ad hominem attacks.
+
+**Disclose Conflicts of Interest:**
+
+-   If you have any conflict of interest that could bias your review (e.g., competing research, personal relationships with the authors), you must disclose this to the editor or decline to review the manuscript.
+
+**Be Transparent and Ethical:**
+
+-   When participating in open peer review, transparency is key. Provide clear, well-reasoned comments that can be publicly shared if requested.
+
+-   Reviewers should never misuse privileged information gained through peer review (e.g., sharing data or ideas from the manuscript under review).
+
+**Adhere to Timelines:**
+
+-   Peer reviews should be completed within the timeframe provided by the journal. If delays are unavoidable, notify the editor as soon as possible.
+
+**Respect Confidentiality:**
+
+-   If reviewing for a journal that follows a blinded or traditional peer review process, the content of the manuscript and the review should remain confidential until publication.
+
+## Reviewer Recognition
+
+Recognizing the vital contribution of reviewers to the scientific process, ICArEHB encourages its researchers to seek and accept recognition for their peer review work. Reviewer recognition increases accountability and allows reviewers to build a portfolio of their contributions.
+
+**Publons:**
+
+-   Researchers can use Publons to track, verify, and showcase their peer review work. Publons integrates with many journals to automatically record reviews, allowing reviewers to receive recognition for their efforts without compromising the confidentiality of the review process.
+
+**ORCID:**
+
+-   ORCID profiles allow researchers to link their peer review contributions to their unique researcher identifier, providing an easily accessible record of their reviewing activity.
+
+**Acknowledgment in Publications:**
+
+-   Many journals that use open peer review will publicly acknowledge reviewers, either by listing their names in the published article or by making their review reports available with their identity.
+
+**Institutional Recognition:**
+
+-   ICArEHB encourages its researchers to list peer review activities in their professional evaluations and annual reports. Peer review is considered a valuable contribution to the scientific community, and ICArEHB recognizes it as an important component of academic service.
+
+# Checklist for Open Peer Review
+
+Before conducting an open peer review, use this checklist to ensure that you are following ICArEHB's policy and best practices:
+
+**Constructive Feedback:**
+
+-   [ ] Have I provided clear, respectful, and constructive feedback aimed at improving the manuscript?
+
+-   [ ] Have I offered specific suggestions for improving the study's methodology, analysis, or conclusions?
+
+**Objectivity:**
+
+-   [ ] Is my review based solely on the merits of the research, free from personal bias or external influence?
+
+-   [ ] Have I avoided personal attacks or subjective criticisms unrelated to the scientific content?
+
+**Transparency and Accountability:**
+
+-   [ ] If participating in open peer review, am I prepared to have my comments and identity publicly disclosed?
+
+-   [ ] Have I ensured that my feedback is clear, well-justified, and can stand up to public scrutiny?
+
+**Conflicts of Interest:**
+
+-   [ ] Have I disclosed any potential conflicts of interest that could affect my ability to provide an unbiased review?
+
+-   [ ] If necessary, have I declined to review due to a conflict of interest?
+
+**Timeliness:**
+
+-   [ ] Can I complete the review within the timeframe provided by the journal?
+
+-   [ ] If delays are unavoidable, have I informed the editor promptly?
+
+**Recognition:**
+
+-   [ ] Have I tracked my peer review activities on platforms such as Publons or ORCID for professional recognition?
+
+-   [ ] Have I ensured that my reviewing efforts are visible and acknowledged where appropriate?

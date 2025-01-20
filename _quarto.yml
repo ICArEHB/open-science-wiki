@@ -1,35 +1,34 @@
+number-depth: 2
 project:
   type: book
-
 book:
   title: ""
   author: ""
-  date: "6/5/2023"
   favicon: ICArEHB_V_Color.png
   sidebar: 
-    logo: ICArEHB_V_Color.png
+    logo: images/cover3.png
     search: true
+    
+  reader-mode: false
+  
   chapters:
     - index.qmd
-    - intro.qmd
+    - policy.qmd
+    - publishing.qmd
+    - data.qmd
     - preregistration.qmd
-    - dmp.qmd
-    - datacollection.qmd
-    - datadictionary.qmd
-    - logbook.qmd
-    - datastorage.qmd
-    - scripts.qmd
-    - metadata.qmd
-    - versioncontrol.qmd
-    - preprints.qmd
+    - methods.qmd
     - peerreview.qmd
-    - references.qmd
-
-bibliography: references.bib
+    - tools.qmd
+    - improvements.qmd
+  appendices:
+    - glossary.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, custom.scss]
+    code-link: true
+  asciidoc: default
   pdf:
     documentclass: scrreprt
 

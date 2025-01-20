@@ -1,0 +1,31 @@
+## 📋 Checklist for Open Access Publishing {.unnumbered}
+
+Before submitting your paper, use the following checklist to ensure that you are complying with ICArEHB's Open Access policy:
+
+**Open Access Requirements:**
+
+-   [ ] Have I reviewed and complied with my funder's Open Access requirements (e.g., European Research Council)?
+
+-   [ ] Have I ensured that my article will be made openly accessible either through Gold or Green Open Access?
+
+**Journal Selection:**
+
+-   [ ] Have I selected a reputable journal that supports Open Access publishing (Gold or Green)?
+
+-   [ ] Have I checked the journal's policies on preprint submissions and repository deposits?
+
+**Funding for APCs:**
+
+-   [ ] Have I checked whether APC funding is available from my institution, funder, or the journal itself (e.g., via waivers)?
+
+-   [ ] If I'm paying an APC, have I confirmed the total cost and any relevant payment requirements?
+
+**Licensing:**
+
+-   [ ] Have I selected the appropriate Creative Commons license (e.g., CC-BY) for my work, ensuring that my article can be shared and reused as I intend?
+
+**Repository Deposit:**
+
+-   [ ] If using Green Open Access, have I identified a public repository where I can deposit my preprint or accepted manuscript (e.g., [OSF](https://osf.io/))?
+
+-   [ ] Have I checked the embargo period (if applicable) and planned for timely deposit of my work?

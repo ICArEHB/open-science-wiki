@@ -1,0 +1,177 @@
+# Open Access Publishing
+
+## Policy on Open Access
+
+ICArEHB is committed to making all research outputs produced by its members freely accessible to the public. Researchers are required to ensure that all publications arising from ICArEHB-funded research are openly accessible, either through direct publication in Open Access journals or by depositing accepted manuscripts in open-access repositories.
+
+**Mandatory Open Access**
+
+All research articles must be made publicly available, either through Gold or Green Open Access.
+
+**Compliance with Funder Mandates**
+
+Researchers must ensure that they comply with any Open Access requirements set by their funding bodies, including specific timelines for public access.
+
+**Repository Submission**
+
+Where Gold Open Access is not feasible, researchers must deposit the final accepted manuscript or a preprint in an trusted open-access repository (e.g., OSF, UAlg institutional repository).
+
+**Preprints Encouraged**
+
+Researchers are strongly encouraged to upload preprints of their work to increase visibility and accelerate the dissemination of their findings prior to formal publication.
+
+## Types of Open Access
+
+There are two main types of Open Access, each offering different routes to making research publicly available:
+
+**Gold Open Access:**
+
+-   In the Gold Open Access model, the final published version of the article is made freely available by the publisher immediately upon publication. Gold OA typically requires the payment of an Article Processing Charge (APC) (see @sec-apc) by the author or their institution.
+
+-   Researchers publishing in Gold Open Access journals should ensure that the journal follows reputable peer-review processes and adheres to ethical standards.
+
+-   ICArEHB encourages Gold Open Access where possible, especially in cases where funders provide support for APCs. Check @sec-apc for more details.
+
+**Green Open Access:**
+
+-   Green Open Access refers to the practice of depositing a version of the manuscript (e.g., the accepted version or preprint) in an open-access repository, typically after an embargo period set by the publisher.
+
+-   This approach allows researchers to comply with Open Access mandates even when publishing in subscription-based journals.
+
+-   ICArEHB recommends using trusted repositories, such as [OSF](https://osf.io/) for Green Open Access.
+
+## Preprints
+
+A preprint is a version of a research manuscript that is shared publicly before it undergoes formal peer review. Preprints allow researchers to disseminate their findings rapidly and receive feedback from the academic community. ICArEHB encourages the use of preprints to accelerate the sharing of knowledge and increase the visibility of ongoing research.
+
+**Rapid Dissemination**
+
+Preprints allow researchers to share their work immediately after completing the manuscript, often months before formal publication. This promotes early access to important findings, lead to early citations, and allows for early feedback from peers, which can improve the manuscript before submission to a journal.
+
+**Preprint Servers**
+
+Researchers can submit preprints to open-access repositories and preprint servers, such as [OSF Preprints](https://osf.io/preprints), [arXiv](https://arxiv.org/), [bioRxiv](https://www.biorxiv.org/), or [SoArXiv](https://socopen.org/). These platforms make research accessible to a broad audience while providing a DOI for citation purposes.
+
+**Compliance**
+
+Many journals allow authors to post preprints without affecting the submission process. Researchers should confirm the preprint policies of the target journal before submitting a preprint. Check also [Elseviers Sharing Policy](https://www.elsevier.com/about/policies-and-standards/sharing) and [Springer/Nature Policy](https://www.springer.com/gp/editorial-policies/preprint-sharing?srsltid=AfmBOorwTY-rvrtexyynkC1ry_HMnHtiro10nubsTMH2duFJHPosRL8p).
+
+## Selecting Journals
+
+When selecting a journal for Open Access publication, researchers should consider the following factors:
+
+**Reputation and Impact:**
+
+-   Choose a journal that is well-respected in your field and has a solid peer-review process. Look for journals indexed in major databases like Scopus or Web of Science.
+
+-   Verify that the journal is not a predatory journal. Use resources such as [DOAJ (Directory of Open Access Journals)](https://doaj.org/) and [Think. Check. Submit.](https://thinkchecksubmit.org/) to evaluate journal credibility.
+
+**Scope and Audience:**
+
+-   Ensure that the journal's scope aligns with your research focus and that it reaches your intended audience.
+
+-   Consider interdisciplinary journals if your research bridges multiple fields.
+
+**Open Access Policies:**
+
+-   Confirm whether the journal offers Gold or Green Open Access options. For Green Open Access, check the length of the embargo period (if any).
+
+-   Ensure that the journal allows the deposit of preprints or accepted manuscripts in open-access repositories if opting for Green Open Access.
+
+-   Here are some links for the main Archaeology and Human Evolution journals Open Access Policies:
+
+    -   [Journal of Archaeological Science](https://www.sciencedirect.com/journal/journal-of-archaeological-science/publish/open-access-options)
+
+    -   [Journal of Human Evolution](https://www.sciencedirect.com/journal/journal-of-human-evolution/publish/open-access-options)
+
+    -   [Nature Ecology and Evolution](https://www.nature.com/natecolevol/editorial-policies/self-archiving-and-license-to-publish)
+
+    -   [PNAS](https://www.pnas.org/author-center/editorial-and-journal-policies#embargo-policy)
+
+    -   [Quaternary Science Reviews](https://www.sciencedirect.com/journal/quaternary-science-reviews/publish/open-access-options)
+
+    -   [Scientific Reports](https://www.nature.com/srep/journal-policies/editorial-policies)
+
+    -   [Journal of Archaeological Science: Reports](https://www.sciencedirect.com/journal/journal-of-archaeological-science-reports/publish/open-access-options)
+
+    -   [Anthropological and Archaeological Sciences](https://link.springer.com/journal/12520/how-to-publish-with-us#Fees%20and%20Funding)
+
+**Licensing:**
+
+-   Open Access journals typically use Creative Commons (CC) licenses. Make sure the license meets your needs for sharing and reusing content. CC-BY (attribution) is the most common license, allowing others to share and adapt the work as long as the original author is credited.
+
+-   Other licenses, such as CC-BY-NC (non-commercial), can be used if you want to restrict commercial use.
+
+**Publication Speed:**
+
+-   Some Open Access journals have shorter publication times due to streamlined processes. If rapid dissemination is important, factor in the journal's average time from submission to publication.
+
+## Funding APCs {#sec-apc}
+
+For Gold Open Access, most journals require an Article Processing Charge (APC) to cover the cost of making the article freely available. ICArEHB supports its researchers in navigating APC funding through the following:
+
+**Institutional Funding:**
+
+-   ICArEHB researchers may have access to institutional funds or agreements that cover or subsidize APCs for certain Open Access journals.
+
+-   Check with the ICArEHB Open Science Committee to see if there are funds available for APC support or if there are existing agreements with Open Access publishers that reduce APC costs (see FCT Agreements below).
+
+**Funder Support:**
+
+-   Many research funders, particularly under [Plan S](https://www.coalition-s.org/), provide grants or support for covering APCs. Researchers should consult their funder's Open Access policy to confirm eligibility for APC funding.
+
+-   In cases where the funder covers APCs, ensure that you are adhering to their guidelines for Open Access publishing (e.g., immediate Open Access and use of specific repositories).
+
+**FCT Agreements**
+
+-   Elsevier and Portuguese Foundation for Science and Technology (FCT) have established an agreement to support authors in Portugal who wish to publish open access. When publishing in eligible hybrid journals, authors do not have to pay an article publishing charge (APC). The cost of publishing open access is covered under the terms of the agreement. Please note that the number of APCs included under the agreement is fixed and will be allocated based on date of acceptance. See [more info here](https://www.elsevier.com/open-access/agreements/fct).
+
+-   UAlg is also participating in the agreement between Springer Nature and FCT/FCCN/b-on consortium, meaning that corresponding authors are eligible to publish their articles open access with fees covered. The agreement includes hybrid journals across the Springer and Adis portfolios. See [more info here](https://www.springernature.com/de/open-science/oa-agreements/portugal).
+
+**ERC Policy**
+
+-   If you publish in a full open access journal or book, or on a full open access publishing platform, publishing fees **are eligible costs** if incurred during the lifetime of your project and in line with the provisions of your grant agreement.
+
+-   If you publish in a subscription or hybrid journal, in a book for which some parts are not open access, or on a publishing platform that does not provide all of its scholarly content in open access fees of any kind **are not eligible** costs for the ERC.
+
+-   See [more info here](https://erc.europa.eu/manage-your-project/open-science).
+
+**Waivers and Discounts:**
+
+-   Some Open Access journals offer APC waivers or discounts, particularly for researchers from low-income institutions or countries. Even if ICArEHB has sufficient resources, it is worth inquiring about waivers.
+
+**APC Transparency:**
+
+-   Make sure the journal's APC is transparently listed on its website, and avoid journals that are unclear about APC costs. APCs can range from a few hundred to several thousand euros depending on the journal.
+
+## Checklist for Open Access Publishing
+
+Before submitting your paper, use the following checklist to ensure that you are complying with ICArEHB's Open Access policy:
+
+**Open Access Requirements:**
+
+-   [ ] Have I reviewed and complied with my funder's Open Access requirements (e.g., European Research Council)?
+
+-   [ ] Have I ensured that my article will be made openly accessible either through Gold or Green Open Access?
+
+**Journal Selection:**
+
+-   [ ] Have I selected a reputable journal that supports Open Access publishing (Gold or Green)?
+
+-   [ ] Have I checked the journal's policies on preprint submissions and repository deposits?
+
+**Funding for APCs:**
+
+-   [ ] Have I checked whether APC funding is available from my institution, funder, or the journal itself (e.g., via waivers)?
+
+-   [ ] If I'm paying an APC, have I confirmed the total cost and any relevant payment requirements?
+
+**Licensing:**
+
+-   [ ] Have I selected the appropriate Creative Commons license (e.g., CC-BY) for my work, ensuring that my article can be shared and reused as I intend?
+
+**Repository Deposit:**
+
+-   [ ] If using Green Open Access, have I identified a public repository where I can deposit my preprint or accepted manuscript (e.g., [OSF](https://osf.io/))?
+
+-   [ ] Have I checked the embargo period (if applicable) and planned for timely deposit of my work?

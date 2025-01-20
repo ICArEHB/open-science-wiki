@@ -1,0 +1,33 @@
+## 📋 Checklist for Pre-Registration {.unnumbered}
+
+Before conducting your study, use the following checklist to ensure that your pre-registration process is complete:
+
+**Study Design:**
+
+-   [ ] Have I clearly defined my research questions and hypotheses?
+
+-   [ ] Have I outlined a detailed plan for data collection, including the population, sample size, and measurement tools?
+
+**Analysis Plan:**
+
+-   [ ] Have I specified the statistical or qualitative analysis methods that I will use to test my hypotheses?
+
+-   [ ] Have I outlined how I will handle outliers, missing data, or any other issues that may arise during analysis?
+
+**Platform Selection:**
+
+-   [ ] Have I selected the appropriate platform for pre-registration (e.g., OSF)?
+
+-   [ ] Have I reviewed the platform's guidelines to ensure that my pre-registration is compliant?
+
+**Time-Stamping and Public Access:**
+
+-   [ ] Have I ensured that my pre-registration is time-stamped and made publicly accessible?
+
+-   [ ] If there are restrictions on public access, have I documented the reasons?
+
+**Reporting and Deviations:**
+
+-   [ ] Am I prepared to disclose my pre-registration status in any resulting publications?
+
+-   [ ] If deviations from the original plan occur, am I ready to document and explain these changes transparently?

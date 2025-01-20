@@ -1,0 +1,35 @@
+# Glossary of Open Science Terms
+
+-   **APC (Article Processing Charge):** A fee paid by the author (or their institution) to make an article freely accessible to the public in a Gold Open Access journal. This fee covers the costs of publishing and providing Open Access.
+
+-   **Creative Commons (CC) Licenses:** A set of open licenses that allow creators to specify how their work can be used and shared by others. CC-BY requires attribution, while CC0 places the work in the public domain.
+
+-   **Data Management Plan (DMP):** A formal document that outlines how research data will be collected, organized, stored, shared, and preserved throughout and after the research project. DMPs are often required by funders.
+
+-   **FAIR Principles:** A set of guidelines for making data Findable, Accessible, Interoperable, and Reusable, ensuring data can be easily located, accessed, and reused by other researchers.
+
+-   **GitHub:** A web-based platform used for version control and collaborative development, particularly for code. Researchers use it to share code openly and track revisions.
+
+-   **GitLab:** Similar to GitHub, GitLab offers version control, collaborative development, and self-hosting options for projects that need private repositories or additional control over infrastructure.
+
+-   **Gold Open Access:** A publishing model where the article is made freely available by the publisher immediately upon publication, often requiring the author to pay an Article Processing Charge (APC).
+
+-   **Green Open Access:** A model in which authors deposit a version of their article (e.g., preprint or accepted manuscript) in an open repository, often after an embargo period imposed by the publisher.
+
+-   **Metadata:** Structured information that describes, explains, or provides context about data, making it easier to find, use, and understand. Metadata is essential for ensuring that data are FAIR (Findable, Accessible, Interoperable, and Reusable).
+
+-   **Open Access:** The practice of making research outputs (e.g., publications, data) freely available to everyone, without access restrictions or paywalls.
+
+-   **Open Peer Review:** A peer review process where review reports are made publicly available alongside the published article. Reviewer identities may or may not be disclosed.
+
+-   **Open Science Framework (OSF):** An open platform that supports research project management, data sharing, preprints, and study pre-registration. OSF integrates with tools like GitHub and Zenodo.
+
+-   **Preprint:** A version of a scholarly paper that precedes formal peer review and publication in a scientific journal. Preprints are shared publicly to facilitate early dissemination and feedback.
+
+-   **Pre-registration:** The process of registering a research study's hypotheses, methods, and analysis plan before data collection begins, promoting transparency and preventing questionable research practices like p-hacking.
+
+-   **Protocols.io:** A platform for creating and sharing detailed, step-by-step research protocols. It allows researchers to publish, update, and collaborate on protocols, ensuring transparency and reproducibility.
+
+-   **Trusted Repository:** A repository that adheres to accepted standards for data storage, preservation, and access, ensuring that research data remain available over time. Trusted repositories, such as OSF and Zenodo, comply with FAIR principles.
+
+-   **Zenodo:** An open-access repository developed by CERN that allows researchers to archive and share datasets, software, and research outputs. Zenodo assigns DOIs to shared materials, making them citable and accessible.

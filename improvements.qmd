@@ -1,0 +1,41 @@
+# Continuous Improvements and Updates
+
+## Policy Review Cycle
+
+ICArEHB will maintain up-to-date and relevant Open Science policies that reflect the latest developments in the field. To achieve this, a structured policy review cycle is in place:
+
+**Annual Review**
+
+The ICArEHB Open Science Committee will conduct a comprehensive review of the Open Science Handbook annually. This review will assess the effectiveness of current policies, identify areas for improvement, and ensure that the handbook reflects the latest standards, technologies, and best practices in Open Science.
+
+**Ad hoc Updates** In addition to the annual review, the committee will make ad hoc updates as necessary. These updates may be prompted by significant changes in the Open Science landscape, such as new funder requirements, the introduction of groundbreaking tools or platforms, or feedback from the ICArEHB community.
+
+**Alignment with External Standards** ICArEHB\'s policies will be regularly cross-referenced with key external frameworks, such as [Plan S](https://www.coalition-s.org/), the [European Open Science Cloud (EOSC)](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science/european-open-science-cloud-eosc_en), and policies from major funders like the European Research Council (ERC) and FCT. This ensures that ICArEHB\'s policies remain compliant with global standards and funder mandates.
+
+**Versioning and Documentation** All updates to the handbook will be communicated to ICArEHB researchers. The updated handbook will be shared via email and made available on the ICArEHB website, ensuring that all researchers have access to the latest information.\
+
+## Feedback and Contributions
+
+ICArEHB recognizes that its researchers are integral to the continuous improvement of the Open Science Handbook. Feedback from the research community is essential to ensure that the policies remain relevant, practical, and effective. The following mechanisms are in place to facilitate ongoing input from ICArEHB members.
+
+**Open Feedback Channels**
+
+-   Researchers are encouraged to provide feedback on the Open Science Handbook through email to openscience\@icarehb.com. These forms allow researchers to suggest updates, point out areas for clarification, or propose new tools and practices for consideration.
+
+-   Direct feedback can also be submitted during the annual ICArEHB's Open Science Day, where ICArEHB researchers can participate in discussions on how to enhance Open Science practices across the center.
+
+**Researcher Contributions**
+
+-   ICArEHB researchers who have implemented innovative Open Science practices or developed new tools are encouraged to contribute to the handbook. Contributions may include case studies, examples of best practices, or the integration of new platforms and methods into the institution\'s Open Science framework.
+
+-   Contributions can be submitted to the ICArEHB Open Science Committee, which will review and incorporate relevant suggestions during the policy review cycle.
+
+**Advisory Board Consultation**
+
+-   The ICArEHB External Advisory Committee, comprising one external Open Science expert, will be consulted annually to provide external perspectives on best practices, emerging trends, and global standards in Open Science.
+
+-   The Committee will offer recommendations on how ICArEHB can align its practices with international Open Science initiatives and ensure continuous improvement.
+
+**Continuous Learning and Adaptation**
+
+-   As Open Science tools and practices evolve, ICArEHB will provide ongoing training sessions and learning resources to keep researchers informed of the latest developments. These sessions will also be used to gather feedback on new tools and platforms, ensuring they are integrated into the handbook in a user-friendly and efficient manner.

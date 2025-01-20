@@ -1,0 +1,117 @@
+# Tools and Resources for Open Science
+
+## Approved Tools and Platforms
+
+ICArEHB recommends and supports a range of Open Science tools and platforms to ensure that research outputs - data, protocols, methods, code, and publications - are openly accessible, reproducible, and reusable. These platforms facilitate various aspects of the research lifecycle, from study planning and data management to publication and peer review.
+
+[**OSF (Open Science Framework)**](https://osf.io/)**:** OSF is the preferred platform at ICArEHB for managing and sharing research projects, data, and preprints. It provides a secure and flexible environment where researchers can store files, collaborate with colleagues, and share their work openly. Key features:
+
+-   Data storage and management.
+
+-   Project collaboration and version control.
+
+-   Provides DOI
+
+-   Preprint hosting and study pre-registration.
+
+-   Integration with other tools like GitHub and Cloud Services for seamless workflows.
+
+-   OSF is particularly useful for multi-phase research projects, where different outputs - such as data, code, and preprints - can be linked together and accessed in one place.
+
+[**Protocols.io**](https://www.protocols.io/)**:** Protocols.io is the recommended platform for sharing detailed research protocols, enabling transparency in experimental and methodological practices. Key features:
+
+-   Step-by-step protocol sharing for laboratory, field, and computational methods.
+
+-   Protocol versioning and updates, ensuring reproducibility.
+
+-   Collaborative features for co-developing protocols with colleagues.
+
+-   Researchers can use Protocols.io to share methodologies and ensure that others can replicate or build on their experiments.
+
+[**GitHub**](https://github.com/) and [**GitLab**](https://about.gitlab.com/)**:** Widely used for sharing and collaborating on code, GitHub and GitLab offer robust version control and integration with platforms like OSF for long-term preservation.
+
+[**Zenodo**](https://zenodo.org/)**:** Ideal for sharing datasets, software, and publications. Zenodo provides DOIs (Digital Object Identifiers), ensuring that shared materials are citable and accessible.
+
+[**Figshare**](https://figshare.com/)**:** A platform for storing and sharing datasets, figures, and other research outputs. Figshare allows for easy data sharing and citation.
+
+[**European Comission Open Cloud**](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/open-science/european-open-science-cloud-eosc_en)
+
+## Templates and Forms
+
+To streamline the adoption of Open Science practices, ICArEHB provides templates and forms that guide researchers through essential processes like data management, pre-registration, and protocol development. These resources help ensure compliance with funder and institutional requirements while promoting best practices.
+
+**Data Management Plan (DMP) Templates:**
+
+-   [FCT DMP Template](https://myfct.fct.pt/LibDocument/DocumentPatterns.FileDisplay.aspx?EcrypDoctId=omRid7suIkRYq%2BIqLH1qkQ%3D%3D): A template designed to help researchers create a Data Management Plan that complies with FCT (Fundação para a Ciência e a Tecnologia) guidelines, ensuring proper planning for data collection, storage, and sharing.
+
+-   [ERC DMP Template](https://erc.europa.eu/sites/default/files/document/file/ERC-Data-Management-Plan.docx): A template aligned with European Research Council requirements, ensuring that research data management practices meet European standards.
+
+**OSF Project Templates**
+
+To use templates please follow the OSF instructions on how to [create a project from template](https://help.osf.io/article/254-create-a-project-from-a-template).
+
+-   [ICArEHB Article Template](https://osf.io/ygkhp/)
+
+-   [Course Management Template](https://osf.io/rtsjq/)
+
+-   [Research Group Management Template](https://osf.io/5mk6w/)
+
+-   [Electronic Lab Notebook Template](https://osf.io/ptdqx/)
+
+-   [Research Teams Coordination Template](https://osf.io/q9sy4/)
+
+**Pre-Registration Forms**
+
+-   Templates for pre-registration can be found on [OSF](https://osf.io/zab38/wiki/home/). These forms help researchers outline their research hypotheses, study design, and analysis plan before data collection, increasing transparency and preventing practices like p-hacking.
+
+**Protocol Templates**
+
+-   Protocols.io Templates: These templates guide researchers in creating clear, detailed protocols that include step-by-step instructions for experiments, fieldwork, or data analysis.
+
+**Metadata Templates**
+
+-   [Readme Metadata Template](https://cornell.app.box.com/v/ReadmeTemplate)
+
+-   [Dublin Core Metadata Generator](https://nsteffel.github.io/dublin_core_generator/generator_nq.html)
+
+**Ethics and Consent Forms**
+
+-   Templates for informed consent, anonymization protocols, and data protection, ensuring that research involving human subjects complies with legal and ethical standards (e.g., GDPR compliance).
+
+## Training Resources
+
+These resources aim to equip researchers with the skills and knowledge needed to use Open Science tools effectively.
+
+**Workshops and Webinars**
+
+-   Training workshops on using OSF, and other platforms. These sessions cover how to set up a project, share data, pre-register studies, and collaborate using these tools.
+
+-   Workshops hosted by external Open Science experts at ICArEHB, focusing on emerging practices and new tools in the Open Science landscape. Check the following links for our 2024 Workshop Introduction to Open Science by [Dr. Ben Marwick](https://faculty.washington.edu/bmarwick/):
+
+    -   [Day 1](https://youtu.be/YEr7Q8mnoxc)
+
+    -   [Day 2](https://youtu.be/2npmUc05loc)
+
+    -   [Day 3](https://youtu.be/LIX52B5hqeo)
+
+    -   [Slides](http://doi.org/10.17605/OSF.IO/PB3WH)
+
+**Online Tutorials and Guides**
+
+-   [OSF Support](https://help.osf.io/): Offers tutorials, FAQs, and guides on setting up projects, sharing data, and integrating OSF with other tools.
+
+-   [Protocols.io Tutorials](https://www.protocols.io/tutorials): Provides step-by-step guides for uploading, sharing, and updating protocols, as well as tips for ensuring reproducibility.
+
+-   [GitHub Documentation](https://docs.github.com/pt): Comprehensive documentation and tutorials on using GitHub for version control
+
+-   [Zenodo Documentation](https://help.zenodo.org/docs/): Comprehensive documentation and tutorials on using Zenodo for archiving and sharing research outputs.
+
+-   [Journal of Archaeological Science guidelines on reproducibility](https://www.sciencedirect.com/journal/journal-of-archaeological-science/about/reproducibility-at-journal-of-archaeological-science): Brief guidance on preparing submissions for a reproducibility review.
+
+**Peer Support and Mentorship**
+
+-   ICArEHB encourages the development of peer support groups, where experienced researchers can mentor colleagues in Open Science practices. These groups provide hands-on guidance and troubleshooting for using OSF, Protocols.io, and other platforms.
+
+**External Resources**
+
+-   Access to external training programs such as [FOSTER (Facilitate Open Science Training for European Research)](https://openscience.eu/foster-open-science), which offers free e-learning courses and training on a wide range of Open Science topics.

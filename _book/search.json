@@ -1,0 +1,433 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "1 Introduction",
+    "section": "",
+    "text": "1 Introduction",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#purpose-of-this-handbook",
+    "href": "index.html#purpose-of-this-handbook",
+    "title": "1 Introduction",
+    "section": "1.1 Purpose of this Handbook",
+    "text": "1.1 Purpose of this Handbook\nThe ICArEHB Open Science Handbook is designed to provide researchers, staff, and collaborators at the Interdisciplinary Center for Archaeology and Evolution of Human Behaviour (ICArEHB) with a clear and comprehensive guide to implementing Open Science practices. Open Science is essential to ensuring that research is transparent, accessible, and reproducible, contributing to the broader scientific community and society as a whole.\nThis handbook serves as a practical resource, outlining ICArEHB’s commitment to Open Science and offering guidance on topics such as Open Access publishing, data management, and pre-registration. By following the practices outlined in this handbook, ICArEHB researchers can align with international standards for research openness, enhance collaboration, and increase the impact of their work.\nWith this handbook, ICArEHB aims to:\n\nsupport ICArEHB members in adopting Open Science principles across all stages of their research.\n\nensure compliance with institutional policies, funder requirements, and global Open Science initiatives.\n\nprovide practical guidance and resources for publishing, managing, and sharing research outputs in an open and accessible manner.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#who-should-use-this-handbook",
+    "href": "index.html#who-should-use-this-handbook",
+    "title": "1 Introduction",
+    "section": "1.2 Who Should Use This Handbook",
+    "text": "1.2 Who Should Use This Handbook\nThis handbook is intended for all members of ICArEHB, including:\n\nResearchers: Principal investigators, postdoctoral fellows, and research assistants involved in producing and disseminating research.\n\nStudents: Graduate and undergraduate students conducting research projects at ICArEHB.\n\nCollaborators: External researchers, institutions, and partners working with ICArEHB researchers on joint projects.\n\nAdministrative and Technical Staff: Individuals responsible for supporting research projects, ensuring compliance with data management, and maintaining institutional resources.\n\nThe guidelines and policies outlined in this handbook apply to all research projects conducted under the ICArEHB umbrella, whether funded internally or externally. By following these standards, all members of ICArEHB contribute to a culture of openness, integrity, and collaboration, ensuring that our research reaches the widest possible audience and has a lasting impact.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#availability",
+    "href": "index.html#availability",
+    "title": "1 Introduction",
+    "section": "1.3 Availability",
+    "text": "1.3 Availability\nThis handbook is designed to be a living document, accessible to all members of ICArEHB and the wider research community. You can find the latest version online at https://books.icarehb.com/4/icarehb-open-science-handbook (currently Version 1.0), where updates are posted as they become available.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "policy.html",
+    "href": "policy.html",
+    "title": "2  ICArEHB Open Science Policy",
+    "section": "",
+    "text": "2.1 Institutional Commitment\nICArEHB researchers are highly aware of the ethical, professional, and scientific responsibilities that come with being stewards of the past. In line with this, we embrace the principles of Open Science, ensuring that research is transparent and reproducible at every stage. This means that our projects undergo peer and community review both before and during the research process. It also means that our methods, software, code, and other outputs are made accessible for the benefit of fellow scientists, the public, and policymakers, helping to shape public policy when necessary. Furthermore, our raw data on humanity’s past is archived and made available to everyone, ensuring that it benefits our collective future. Open Science is not only a reflection of our core values as a research institution but also a necessity in ensuring that the knowledge we generate contributes meaningfully to global scientific advancement.\nBy adopting Open Science principles, ICArEHB aims to:",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>ICArEHB Open Science Policy</span>"
+    ]
+  },
+  {
+    "objectID": "policy.html#institutional-commitment",
+    "href": "policy.html#institutional-commitment",
+    "title": "2  ICArEHB Open Science Policy",
+    "section": "",
+    "text": "Increase the visibility and impact of our research outputs.\nEnhance reproducibility and credibility in the research we conduct.\nPromote interdisciplinary and international collaboration.\nEnsure that the knowledge and data generated by our researchers are freely accessible to the global community.\nAlign with international standards and funder requirements, ensuring compliance with Open Science policies from major funding bodies.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>ICArEHB Open Science Policy</span>"
+    ]
+  },
+  {
+    "objectID": "policy.html#benefits-of-open-science",
+    "href": "policy.html#benefits-of-open-science",
+    "title": "2  ICArEHB Open Science Policy",
+    "section": "2.2 Benefits of Open Science",
+    "text": "2.2 Benefits of Open Science\n\nFor Researchers\nIncreased Citations and Visibility: Open access publications and data lead to higher citation rates and greater visibility among both the academic community and the public.\nFaster Impact: Preprints and open data allow for quicker dissemination of results, speeding up the research process and ensuring faster recognition of your work.\nCollaborative Opportunities: Sharing data and research openly invites collaborations from other researchers, fostering new opportunities for joint projects and interdisciplinary research.\n\n\nFor ICArEHB\nInstitutional Reputation: By leading the adoption of Open Science, ICArEHB positions itself as a forward-thinking and transparent research institution, enhancing its global reputation.\nFunding Opportunities: Many funding agencies, including the European Union, are increasingly prioritizing Open Science practices. ICArEHB’s commitment to Open Science aligns with these priorities, improving our competitiveness for research funding.\nCapacity Building: Open Science promotes a culture of continuous learning and improvement, where researchers are encouraged to share knowledge, tools, and resources with one another, contributing to the overall growth of the center.\n\n\nFor the Public\nAccess to Knowledge: Open Science makes our research accessible to a global audience, including policymakers, educators, and the public. This ensures that ICArEHB’s discoveries can have real-world impacts beyond academia.\nPublic Engagement: Open Science encourages citizen science and public participation in research, promoting greater engagement with archaeology and heritage. By sharing our data and methods, we empower communities to take part in preserving and understanding their cultural heritage.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>ICArEHB Open Science Policy</span>"
+    ]
+  },
+  {
+    "objectID": "policy.html#policy-overview",
+    "href": "policy.html#policy-overview",
+    "title": "2  ICArEHB Open Science Policy",
+    "section": "2.3 Policy overview",
+    "text": "2.3 Policy overview\nThe ICArEHB Open Science Policy establishes guidelines for all researchers, students, and collaborators working under the ICArEHB umbrella. The policy covers key aspects of Open Science that all members must adhere to, ensuring that research outputs are accessible, transparent, and reusable.\nOpen Access Publishing:\n\nICArEHB mandates that all research publications resulting from funded or institutional projects must be made openly accessible. Researchers are expected to publish in Gold Open Access journals or deposit accepted manuscripts in institutional or public repositories (Green Open Access).\nPreprints should be shared whenever possible to accelerate the dissemination of findings.\n\nData Management and Sharing:\n\nAll ICArEHB research projects must have a Data Management Plan (DMP) (see Section 4.2). DMPs ensure that data collection, organization, storage, and sharing are handled in a structured and compliant manner.\nResearch data should be deposited in open repositories and follow the FAIR principles (Findable, Accessible, Interoperable, Reusable) to promote reuse and long-term preservation.\n\nPre-registration of Studies:\n\nICArEHB encourages researchers to pre-register their studies, specifying hypotheses, methodologies, and analysis plans before data collection begins. Pre-registration increases research transparency and reduces the likelihood of biases such as p-hacking or selective reporting.\nPre-registration platforms like OSF Registrations or AsPredicted should be used where applicable.\n\nOpen Methods and Code:\n\nTo ensure research reproducibility, ICArEHB requires researchers to openly share their methods and code. By providing detailed methodologies and code in open repositories (e.g., GitHub, Zenodo), researchers enable others to replicate and build upon their work.\nAll shared code must be properly documented and licensed under open licenses, such as MIT or GPL, to facilitate reuse.\n\nOpen Peer Review:\n\nICArEHB encourages researchers to engage in Open Peer Review whenever possible. Open Peer Review promotes transparency by making review reports and reviewer identities public, fostering a fairer and more constructive peer review process.\n\nEthical and Legal Considerations:\n\nICArEHB’s Open Science practices must adhere to ethical standards, including the protection of sensitive data and compliance with privacy regulations like the General Data Protection Regulation. Researchers are responsible for ensuring that all shared data is ethically managed, particularly when dealing with human participants or confidential information.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>ICArEHB Open Science Policy</span>"
+    ]
+  },
+  {
+    "objectID": "policy.html#compliance-requirements",
+    "href": "policy.html#compliance-requirements",
+    "title": "2  ICArEHB Open Science Policy",
+    "section": "2.4 Compliance Requirements",
+    "text": "2.4 Compliance Requirements\nTo ensure that Open Science practices are fully embedded in all research conducted at ICArEHB, compliance with the Open Science Policy is mandatory for all researchers and students. The following steps outline the expectations for compliance:\nOpen Access Compliance:\n\nResearchers must publish all journal articles arising from ICArEHB-funded or institutional research in Open Access journals or make the accepted manuscripts available in an open repository.\nCompliance with funder mandates (e.g., ERC, FCT) is critical. Researchers are responsible for ensuring that their publications meet the Open Access requirements of their funding bodies.\nTrusted repositories like OSF should be used to deposit manuscripts and supplementary materials.\n\nData Management and Sharing Compliance:\n\nA Data Management Plan (DMP) must be available at the start of each research project (see @sec.dmp). The DMP should outline how data will be collected, organized, stored, and shared, and it must follow institutional and funder guidelines.\nAll research data must be stored in an open-access repository upon project completion, with appropriate metadata to ensure it is FAIR-compliant. Researchers must ensure that sensitive data is anonymized or restricted if necessary.\n\nPre-registration Compliance:\n\nFor hypothesis-driven research, researchers are expected to pre-register their studies to increase research transparency. Pre-registration (see Chapter 5) must be done before data collection begins, using platforms such as OSF Registrations.\nICArEHB will monitor compliance with pre-registration practices, particularly for studies that are likely to undergo peer review in high-impact journals or require significant external funding.\n\nOpen Methods, Protocols, and Code Compliance:\n\nResearchers are required to deposit their research methods, protocols, and code in a public trusted repository upon publication of their findings. Methods, protocols, and code should be documented clearly, allowing other researchers to replicate the study.\nCompliance will be monitored through the submission of methods, protocols, and code alongside research outputs, and failure to comply may affect future internal funding or project approvals, and individual evaluation.\n\nMonitoring and Reporting:\n\nICArEHB will regularly review compliance with its Open Science Policy. When requested, researchers must provide evidence of their Open Access publications, DMPs, pre-registrations, and data/code sharing.\nICArEHB annual reports will detail adherence to Open Science practices, including the publication of preprints, the sharing of data and methods, and participation in Open Peer Review.\n\nSupport and Resources:\n\nICArEHB will provide ongoing support to ensure compliance with Open Science practices. This includes workshops, training sessions, and access to tools such as Argos, DMPTool, OSF, and Protocols.io.\nThe ICArEHB Open Science Committee is available to assist researchers in preparing their Data Management Plans, ensuring compliance with funder requirements, and selecting appropriate Open Access journals and repositories.\n\nFailure to comply with the Open Science Policy may result in:\n\nRestrictions on access to future research funding.\nNon-compliance being flagged in performance reviews or research assessments.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>ICArEHB Open Science Policy</span>"
+    ]
+  },
+  {
+    "objectID": "publishing.html",
+    "href": "publishing.html",
+    "title": "3  Open Access Publishing",
+    "section": "",
+    "text": "3.1 Policy on Open Access\nICArEHB is committed to making all research outputs produced by its members freely accessible to the public. Researchers are required to ensure that all publications arising from ICArEHB-funded research are openly accessible, either through direct publication in Open Access journals or by depositing accepted manuscripts in open-access repositories.\nMandatory Open Access\nAll research articles must be made publicly available, either through Gold or Green Open Access.\nCompliance with Funder Mandates\nResearchers must ensure that they comply with any Open Access requirements set by their funding bodies, including specific timelines for public access.\nRepository Submission\nWhere Gold Open Access is not feasible, researchers must deposit the final accepted manuscript or a preprint in an trusted open-access repository (e.g., OSF, UAlg institutional repository).\nPreprints Encouraged\nResearchers are strongly encouraged to upload preprints of their work to increase visibility and accelerate the dissemination of their findings prior to formal publication.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Open Access Publishing</span>"
+    ]
+  },
+  {
+    "objectID": "publishing.html#types-of-open-access",
+    "href": "publishing.html#types-of-open-access",
+    "title": "3  Open Access Publishing",
+    "section": "3.2 Types of Open Access",
+    "text": "3.2 Types of Open Access\nThere are two main types of Open Access, each offering different routes to making research publicly available:\nGold Open Access:\n\nIn the Gold Open Access model, the final published version of the article is made freely available by the publisher immediately upon publication. Gold OA typically requires the payment of an Article Processing Charge (APC) (see Section 3.5) by the author or their institution.\nResearchers publishing in Gold Open Access journals should ensure that the journal follows reputable peer-review processes and adheres to ethical standards.\nICArEHB encourages Gold Open Access where possible, especially in cases where funders provide support for APCs. Check Section 3.5 for more details.\n\nGreen Open Access:\n\nGreen Open Access refers to the practice of depositing a version of the manuscript (e.g., the accepted version or preprint) in an open-access repository, typically after an embargo period set by the publisher.\nThis approach allows researchers to comply with Open Access mandates even when publishing in subscription-based journals.\nICArEHB recommends using trusted repositories, such as OSF for Green Open Access.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Open Access Publishing</span>"
+    ]
+  },
+  {
+    "objectID": "publishing.html#preprints",
+    "href": "publishing.html#preprints",
+    "title": "3  Open Access Publishing",
+    "section": "3.3 Preprints",
+    "text": "3.3 Preprints\nA preprint is a version of a research manuscript that is shared publicly before it undergoes formal peer review. Preprints allow researchers to disseminate their findings rapidly and receive feedback from the academic community. ICArEHB encourages the use of preprints to accelerate the sharing of knowledge and increase the visibility of ongoing research.\nRapid Dissemination\nPreprints allow researchers to share their work immediately after completing the manuscript, often months before formal publication. This promotes early access to important findings, lead to early citations, and allows for early feedback from peers, which can improve the manuscript before submission to a journal.\nPreprint Servers\nResearchers can submit preprints to open-access repositories and preprint servers, such as OSF Preprints, arXiv, bioRxiv, or SoArXiv. These platforms make research accessible to a broad audience while providing a DOI for citation purposes.\nCompliance\nMany journals allow authors to post preprints without affecting the submission process. Researchers should confirm the preprint policies of the target journal before submitting a preprint. Check also Elseviers Sharing Policy and Springer/Nature Policy.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Open Access Publishing</span>"
+    ]
+  },
+  {
+    "objectID": "publishing.html#selecting-journals",
+    "href": "publishing.html#selecting-journals",
+    "title": "3  Open Access Publishing",
+    "section": "3.4 Selecting Journals",
+    "text": "3.4 Selecting Journals\nWhen selecting a journal for Open Access publication, researchers should consider the following factors:\nReputation and Impact:\n\nChoose a journal that is well-respected in your field and has a solid peer-review process. Look for journals indexed in major databases like Scopus or Web of Science.\nVerify that the journal is not a predatory journal. Use resources such as DOAJ (Directory of Open Access Journals) and Think. Check. Submit. to evaluate journal credibility.\n\nScope and Audience:\n\nEnsure that the journal’s scope aligns with your research focus and that it reaches your intended audience.\nConsider interdisciplinary journals if your research bridges multiple fields.\n\nOpen Access Policies:\n\nConfirm whether the journal offers Gold or Green Open Access options. For Green Open Access, check the length of the embargo period (if any).\nEnsure that the journal allows the deposit of preprints or accepted manuscripts in open-access repositories if opting for Green Open Access.\nHere are some links for the main Archaeology and Human Evolution journals Open Access Policies:\n\nJournal of Archaeological Science\nJournal of Human Evolution\nNature Ecology and Evolution\nPNAS\nQuaternary Science Reviews\nScientific Reports\nJournal of Archaeological Science: Reports\nAnthropological and Archaeological Sciences\n\n\nLicensing:\n\nOpen Access journals typically use Creative Commons (CC) licenses. Make sure the license meets your needs for sharing and reusing content. CC-BY (attribution) is the most common license, allowing others to share and adapt the work as long as the original author is credited.\nOther licenses, such as CC-BY-NC (non-commercial), can be used if you want to restrict commercial use.\n\nPublication Speed:\n\nSome Open Access journals have shorter publication times due to streamlined processes. If rapid dissemination is important, factor in the journal’s average time from submission to publication.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Open Access Publishing</span>"
+    ]
+  },
+  {
+    "objectID": "publishing.html#sec-apc",
+    "href": "publishing.html#sec-apc",
+    "title": "3  Open Access Publishing",
+    "section": "3.5 Funding APCs",
+    "text": "3.5 Funding APCs\nFor Gold Open Access, most journals require an Article Processing Charge (APC) to cover the cost of making the article freely available. ICArEHB supports its researchers in navigating APC funding through the following:\nInstitutional Funding:\n\nICArEHB researchers may have access to institutional funds or agreements that cover or subsidize APCs for certain Open Access journals.\nCheck with the ICArEHB Open Science Committee to see if there are funds available for APC support or if there are existing agreements with Open Access publishers that reduce APC costs (see FCT Agreements below).\n\nFunder Support:\n\nMany research funders, particularly under Plan S, provide grants or support for covering APCs. Researchers should consult their funder’s Open Access policy to confirm eligibility for APC funding.\nIn cases where the funder covers APCs, ensure that you are adhering to their guidelines for Open Access publishing (e.g., immediate Open Access and use of specific repositories).\n\nFCT Agreements\n\nElsevier and Portuguese Foundation for Science and Technology (FCT) have established an agreement to support authors in Portugal who wish to publish open access. When publishing in eligible hybrid journals, authors do not have to pay an article publishing charge (APC). The cost of publishing open access is covered under the terms of the agreement. Please note that the number of APCs included under the agreement is fixed and will be allocated based on date of acceptance. See more info here.\nUAlg is also participating in the agreement between Springer Nature and FCT/FCCN/b-on consortium, meaning that corresponding authors are eligible to publish their articles open access with fees covered. The agreement includes hybrid journals across the Springer and Adis portfolios. See more info here.\n\nERC Policy\n\nIf you publish in a full open access journal or book, or on a full open access publishing platform, publishing fees are eligible costs if incurred during the lifetime of your project and in line with the provisions of your grant agreement.\nIf you publish in a subscription or hybrid journal, in a book for which some parts are not open access, or on a publishing platform that does not provide all of its scholarly content in open access fees of any kind are not eligible costs for the ERC.\nSee more info here.\n\nWaivers and Discounts:\n\nSome Open Access journals offer APC waivers or discounts, particularly for researchers from low-income institutions or countries. Even if ICArEHB has sufficient resources, it is worth inquiring about waivers.\n\nAPC Transparency:\n\nMake sure the journal’s APC is transparently listed on its website, and avoid journals that are unclear about APC costs. APCs can range from a few hundred to several thousand euros depending on the journal.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Open Access Publishing</span>"
+    ]
+  },
+  {
+    "objectID": "publishing.html#checklist-for-open-access-publishing",
+    "href": "publishing.html#checklist-for-open-access-publishing",
+    "title": "3  Open Access Publishing",
+    "section": "3.6 Checklist for Open Access Publishing",
+    "text": "3.6 Checklist for Open Access Publishing\nBefore submitting your paper, use the following checklist to ensure that you are complying with ICArEHB’s Open Access policy:\nOpen Access Requirements:\n\nHave I reviewed and complied with my funder’s Open Access requirements (e.g., European Research Council)?\nHave I ensured that my article will be made openly accessible either through Gold or Green Open Access?\n\nJournal Selection:\n\nHave I selected a reputable journal that supports Open Access publishing (Gold or Green)?\nHave I checked the journal’s policies on preprint submissions and repository deposits?\n\nFunding for APCs:\n\nHave I checked whether APC funding is available from my institution, funder, or the journal itself (e.g., via waivers)?\nIf I’m paying an APC, have I confirmed the total cost and any relevant payment requirements?\n\nLicensing:\n\nHave I selected the appropriate Creative Commons license (e.g., CC-BY) for my work, ensuring that my article can be shared and reused as I intend?\n\nRepository Deposit:\n\nIf using Green Open Access, have I identified a public repository where I can deposit my preprint or accepted manuscript (e.g., OSF)?\nHave I checked the embargo period (if applicable) and planned for timely deposit of my work?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Open Access Publishing</span>"
+    ]
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "4  Data Management and Sharing",
+    "section": "",
+    "text": "4.1 Policy on Data Management\nICArEHB is committed to ensuring that all research data generated by its members are managed according to best practices, preserved for the long term, and made available for reuse whenever possible. Research data must be managed in line with institutional policies, funder requirements, and legal and ethical obligations.\nData Management Plan (DMP) Requirement\nAll research projects at ICArEHB must have a DMP in place from the project’s inception. This ensures that data collection, organization, and sharing are planned according to recognized standards.\nOpen Data Mandate\nResearchers are required to share their research data in a public repository unless there are legal, ethical, or proprietary restrictions that prevent open access. Data should be made available as soon as possible, typically upon publication of the corresponding research article.\nLong-Term Preservation\nData generated by ICArEHB researchers must be preserved in a secure and sustainable manner, ensuring long-term accessibility for future research.\nFAIR Principles Compliance\nAll data management practices must adhere to the FAIR principles (Findable, Accessible, Interoperable, Reusable), ensuring that research data can be easily located, accessed, and reused by others.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Management and Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "data.html#sec-dmp",
+    "href": "data.html#sec-dmp",
+    "title": "4  Data Management and Sharing",
+    "section": "4.2 Data Management Plans (DMPs)",
+    "text": "4.2 Data Management Plans (DMPs)\nA data management plan (DMP) is a document that outlines how data will be collected, organized, stored, preserved, and shared during a research project. A DMP is usually required by funding agencies, publishers, or institutions as a way to ensure that research data are managed appropriately and meet legal, ethical, and practical standards.\n\nWhat are the main components of a DMP?\nThe main components of a DMP may include:\n\nDescription of the data: What type of data will be collected or generated, and how will they be structured?\nData collection methods: How will the data be collected (e.g., surveys, experiments, observations), and what tools or equipment will be used?\nData organization and documentation: How will the data be named, labeled, and organized to ensure consistency and usability?\nData storage and backup: Where and how will the data be stored (e.g., local servers, cloud-based platforms), and how often will they be backed up?\nData sharing and reuse: Who will have access to the data, under what conditions, and for what purposes?\nData retention and preservation: How long will the data be kept, and how will they be preserved and made accessible after the end of the project?\n\n\n\nGeneral steps to write a DMP\n\nIdentify the key data types and formats you will collect or generate during your research project.\nDetermine how you will organize and store the data. Consider factors such as security, backup, and accessibility.\nDecide how you will manage any ethical or legal issues related to your data. This may involve obtaining informed consent from participants, ensuring compliance with privacy regulations, or addressing intellectual property rights.\nEstablish guidelines for documenting your data. This may include creating metadata, labeling your files, and maintaining a data dictionary.\nDevelop a plan for sharing your data. Consider what data should be shared, with whom, and under what conditions.\nDevelop a plan for preserving your data after completing your project. Consider how long you will need to keep the data and how you will ensure that it remains accessible and usable.\n\nSome funding agencies, institutions, or publishers may provide templates or guidelines for writing a DMP. Additionally, there are several online tools available, such as the DMPTool, DataOne, or Argos that can help guide you through the process of creating a DMP tailored to your specific needs.\nWhen writing your DMP, it is important to be as specific as possible and to consider all aspects of your data management strategy. Consult with colleagues or data management experts if you need guidance or feedback.\n\n\nOther Resources\n\nMore information about data management (storing, archiving, versioning, data structure, etc.) and backing up and versioning data\nHow to name your files\nThe costs of data management\nMore about privacy and legal aspects\nFCT DMP template\nERC DMP template",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Management and Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "data.html#fair-principles",
+    "href": "data.html#fair-principles",
+    "title": "4  Data Management and Sharing",
+    "section": "4.3 FAIR Principles",
+    "text": "4.3 FAIR Principles\nThe FAIR principles are internationally recognized standards for data management that ensure research data are organized and shared in a way that maximizes their potential for reuse. All data generated at ICArEHB must comply with these principles:\nFindable:\n\nData should be easily found by both humans and machines. This requires detailed metadata, unique identifiers (e.g., DOIs), and inclusion in searchable repositories.Use clear and consistent file naming conventions.\nEnsure metadata are complete and standardized.\n\nAccessible:\n\nData should be accessible and retrievable by authorized users, with clear guidelines on how to access them.\nDeposit data in trusted open-access repositories.\nClearly define any access restrictions due to privacy or proprietary concerns.\n\nInteroperable:\n\nData should be formatted and structured in ways that allow them to be integrated with other datasets and used across different platforms.\nUse open, standardized formats and protocols.\nEnsure data are described using standard vocabularies or ontologies.\n\nReusable:\n\nData should be well-documented and licensed so that they can be reused in future research.Include detailed documentation (metadata, protocols, workflows).\nUse appropriate licenses, such as CC-BY or CC0, to clarify the conditions for reuse.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Management and Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "data.html#data-repositories",
+    "href": "data.html#data-repositories",
+    "title": "4  Data Management and Sharing",
+    "section": "4.4 Data Repositories",
+    "text": "4.4 Data Repositories\nResearch data must be stored in a secure, trusted repository that provides long-term access and preservation. ICArEHB researchers should deposit their data in reputable open-access repositories that support FAIR data management.\nRecommended repositories include:\nOSF (Open Science Framework): A widely used platform that supports open data sharing and research collaboration. OSF provides unique DOIs and integrates with various tools for research management.\nZenodo: An open-access repository developed by CERN. Zenodo allows researchers to share datasets, software, and other research outputs with unique identifiers.\nDomain-Specific Repositories: For certain types of data, it may be appropriate to use a specialized repository (e.g., PANGAEA for earth and environmental science data, or GenBank for genomic data).",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Management and Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "data.html#metadata",
+    "href": "data.html#metadata",
+    "title": "4  Data Management and Sharing",
+    "section": "4.5 Metadata",
+    "text": "4.5 Metadata\nMetadata refers to data that describes other data. In other words, it’s information about the content, context, quality, and other characteristics of a dataset. Metadata can include details such as the dataset’s title, author, date created, variable definitions, and data format.\nMetadata is crucial for achieving FAIR data, which stands for Findable, Accessible, Interoperable, and Reusable. Without appropriate metadata, it can be difficult or impossible to find, understand, or effectively use a dataset. For example, if a researcher wants to locate data on a particular topic, they may rely on metadata to search for and identify relevant datasets. Similarly, metadata can help ensure that data are properly documented, formatted, and described, facilitating their use by other researchers. Metadata plays a critical role in enhancing the discoverability, usability, and overall value of research data.\n\nExamples of research metadata\n\nA project readme containing the information below. Often in a readme.txt. Find an example template here or use the information below:\n\nCreator (PI): name and affiliation of PI\nTitle: project title\nFunding sources: names of funders, incl. grant numbers and related acknowledgements\nData collector/producer: who is responsible for data collection + date and location of data production\nDescription: project description, incl. relevant publications\nSample and sampling procedures: target population and methods to sample it (or link to document describing this), retention rates for longitudinal studies\nCoverage: topics, time period and location covered\nSource: if relevant, citations to original source from which data were obtained\n\nMetadata for a specific data file, containing, for example, file description, data format, relationship with other files, date of creation and versioning information, etc. This can be a readme.txt or other filetypes, such as nameofdatafile.json or nameofdatafile.xml\nA codebook (data dictionary), which specifies what all variables in your dataset mean.\n\nQuestion wording or meaning\nVariable text: question text or item number\nRespondent: who was asked the question?\nMeaning of codes: interpretation of the codes assigned to each variable\nMissing data codes, e.g., 999\nSummary statistics for both valid and missing cases\nImputation and editing: identify data that have been estimated or extensively edited\nConstructed and weight variables: how were they constructed\nLocation in the data file: field or column location, if relevant\nVariable groupings: if you categorize variables into conceptual groupings\n\nMetadata in systems, such as a data repository. This type of metadata is often enforced and interoperable so that you don’t have to manually create this type of metadata. The OSF plataform provides their own metadata profile.\n\n\n\nMetadata standards\nMetadata standards refer to the frameworks that provide guidelines for the metadata fields, defining the formatting of metadata fields to make them machine-readable and interoperable. An extensive range of metadata standards is available, varying across different disciplines. For the social sciences, the most widely known metadata standards are Dublin Core and Data Documentation Initiative (DDI). Dublin Core consists of basic elements for describing networked resources, such as Title, Creator, Subject, Description, Publisher, Contributor, Date, Type, Format, and Identifier, among others (check this metadata file generator to see all the elements). On the other hand, DDI is commonly used in social, behavioral, economic, and health sciences, including CESSDA (Consortium of European Social Science Data Archives). Researchers may not always need to work directly with these standards, but it is important to understand that different repositories may adopt different standards. More metadata standards can be found here.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Management and Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "data.html#licensing-data",
+    "href": "data.html#licensing-data",
+    "title": "4  Data Management and Sharing",
+    "section": "4.6 Licensing data",
+    "text": "4.6 Licensing data\nLicensing is a crucial aspect of Open Science that defines how others can access, use, and share your research data. Properly licensing your data ensures that it can be reused in a way that aligns with your preferences while adhering to legal and ethical standards. This section explains how to choose an appropriate license for your data and why licensing is critical for transparency, collaboration, and reproducibility.\nWhen research data are made openly accessible, licensing helps clarify the terms under which the data can be used, reused, and redistributed. Without a clear license, potential users may be uncertain about their rights to use the data, limiting its reuse and impact.\nLicensing your data ensures:\nLegal clarity: It defines the rights and restrictions on data use, helping to avoid legal disputes.\nOpen collaboration: A well-chosen license encourages collaboration by making it clear that others can freely use the data for further research, while respecting the terms you set.\nAttribution: Licensing often includes provisions for crediting the original data creators, ensuring that you receive recognition for your work.\nConsistency with Open Science principles: Licensing promotes transparency and accessibility, key pillars of Open Science. \n\nTypes of Data Licenses\nThere are several open licenses that researchers can use to make their data openly available while retaining control over how it is reused. ICArEHB recommends the use of Creative Commons (CC) licenses, which are widely recognized and easily understood.\nCC0 (Public Domain Dedication) By applying a CC0 license, you waive all copyright and related rights to your data, effectively placing it in the public domain. This allows others to use, modify, and distribute the data without restriction.\nCC BY (Attribution) A CC BY license allows others to use, modify, and distribute your data as long as they provide proper attribution to the original creator. This license encourages reuse while ensuring that you receive credit for your work.\nCC BY-SA (Attribution-ShareAlike) CC BY-SA is similar to CC BY, but it includes a “ShareAlike” clause that requires anyone who modifies or builds upon the data to share the derivative work under the same license.\nCC BY-NC (Attribution-NonCommercial) CC BY-NC allows others to use, modify, and distribute your data, but only for non-commercial purposes. Commercial reuse is prohibited unless additional permissions are granted by the data creator.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Management and Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "data.html#ethics-and-legal-compliance",
+    "href": "data.html#ethics-and-legal-compliance",
+    "title": "4  Data Management and Sharing",
+    "section": "4.7 Ethics and Legal Compliance",
+    "text": "4.7 Ethics and Legal Compliance\nResearch data management must comply with all relevant ethical and legal standards, particularly when dealing with sensitive or personal data. ICArEHB researchers are responsible for ensuring that their data management and sharing practices adhere to the following principles.\nInformed Consent\nIf the data involve human participants, researchers must ensure that informed consent is obtained for data collection, storage, and sharing. Consent forms should specify how data will be used and shared, including potential reuses.\nData Anonymization\nWhen sharing personal or sensitive data, researchers must anonymize the data to protect the privacy of participants. Anonymization should be irreversible and compliant with the General Data Protection Regulation (GDPR).\nIntellectual Property Rights\nResearchers must respect intellectual property rights and ensure that data are shared in a way that does not violate any copyrights, patents, or proprietary agreements.\nData Licensing\nData should be shared with a clear license, such as Creative Commons, that specifies how they can be used and reused by others. Researchers should choose licenses that align with Open Science principles (e.g., CC-BY, CC0).\nFunder and Institutional Requirements\nICArEHB researchers must comply with any specific data management and sharing requirements set by their funding agencies, institutions, or collaborators. Researchers should check these requirements early in the project to ensure compliance.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Management and Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "data.html#checklist-for-data-sharing",
+    "href": "data.html#checklist-for-data-sharing",
+    "title": "4  Data Management and Sharing",
+    "section": "4.8 Checklist for Data Sharing",
+    "text": "4.8 Checklist for Data Sharing\nBefore sharing your research data, use the following checklist to ensure that you are following ICArEHB’s Data Management and Sharing policies:\nData Management Plan:\n\nHave I completed a DMP that outlines my approach to data collection, storage, sharing, and preservation?\nIs my DMP compliant with institutional and funder requirements?\n\nFAIR Principles:\n\nAre my data findable, with clear metadata and a DOI or other unique identifier?\nHave I deposited my data in a trusted repository where they are accessible to others?\nAre my data formatted using standard protocols and described with standard vocabularies to ensure interoperability?\nAre my data accompanied by a clear, open license (e.g., CC-BY) that supports reuse?\n\nData Repositories:\n\nHave I selected a suitable repository for long-term preservation and public access to my data (e.g., OSF, Zenodo)?\nHave I checked whether my repository complies with funder and institutional mandates?\n\nEthical and Legal Considerations:\n\nHave I obtained informed consent from participants for data sharing and reuse?\nHave I anonymized any sensitive data to protect the privacy of participants, in compliance with GDPR?\nHave I ensured that my data do not infringe on any intellectual property rights?\n\nData Accessibility:\n\nAre my data available for reuse immediately after publication, or is there an embargo period?\nIf there are restrictions on data access, have I clearly documented the reasons (e.g., proprietary or ethical concerns)?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Data Management and Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "preregistration.html",
+    "href": "preregistration.html",
+    "title": "5  Pre-Registrations",
+    "section": "",
+    "text": "5.1 Policy on Pre-Registrations\nICArEHB strongly encourages the use of pre-registration for research studies, particularly for hypothesis-driven research. Pre-registration is a powerful tool to improve research transparency, ensuring that analyses and outcomes are not adjusted after the data has been collected. Registrations and pre-registrations help protect the integrity of scientific findings by clearly documenting research plans before data collection or publication.\nEncouraged Pre-Registration\nAll hypothesis-driven research conducted at ICArEHB should be pre-registered prior to data collection. Pre-registration provides a clear record of the planned hypotheses, methods, and analyses, preventing post-hoc adjustments.\nMandatory Registration for Clinical Trials and High-Risk Research\nResearch that involves clinical trials, human subjects, or high-risk areas (e.g., sensitive data, public health implications) must be registered on approved platforms to ensure full transparency and compliance with ethical standards.\nTransparency in Reporting\nResearchers must disclose their pre-registration or registration status in all related publications, ensuring that readers can verify that the study followed the pre-registered plans.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Pre-Registrations</span>"
+    ]
+  },
+  {
+    "objectID": "preregistration.html#what-is-pre-registration",
+    "href": "preregistration.html#what-is-pre-registration",
+    "title": "5  Pre-Registrations",
+    "section": "5.2 What is Pre-Registration?",
+    "text": "5.2 What is Pre-Registration?\nPre-registration refers to the practice of documenting and timestamping the study design, hypotheses, and analysis plans before data collection begins. This method increases the credibility and transparency of research by making clear what the researcher intends to do before seeing the data.\nKey elements of pre-registration include:\nResearch Questions: Clearly defining the research questions that will be addressed.\nHypotheses: Specifying the hypotheses that will be tested.\nStudy Design and Methods: Providing a detailed description of the study design, including the population, sample size, randomization procedures, and planned measurements.\nAnalysis Plan: Outlining the statistical analyses or qualitative methods that will be used to test the hypotheses.By pre-registering these components, researchers create a permanent, time-stamped record that can later be compared to the final study report to assess the fidelity of the research process.\n\nPre-Registration vs. Registration\nIt is important to distinguish between pre-registration and registration:\nPre-registration: This occurs before data collection begins. It documents hypotheses, methods, and planned analyses, ensuring that researchers commit to a specific analysis plan upfront.\nRegistration: This happens after the study is completed but before the results are published. Registration involves documenting key details about the study and ensuring that the results are accessible to the public, even if they are not published in a traditional journal. Registration is often used for clinical trials or large-scale public health studies to ensure transparency.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Pre-Registrations</span>"
+    ]
+  },
+  {
+    "objectID": "preregistration.html#benefits-of-pre-registration",
+    "href": "preregistration.html#benefits-of-pre-registration",
+    "title": "5  Pre-Registrations",
+    "section": "5.3 Benefits of Pre-Registration",
+    "text": "5.3 Benefits of Pre-Registration\nPre-registration offers several significant benefits for researchers and the broader scientific community:\n\nPrevents P-Hacking: By specifying the hypotheses and analyses upfront, pre-registration helps prevent p-hacking, where researchers selectively report significant results or adjust their analyses to achieve desirable outcomes.\nIncreases Transparency: Pre-registration creates a publicly accessible record of the study design, ensuring that research findings can be evaluated in the context of the original plan. This increases accountability and trust in the research process.\nPromotes Reproducibility: Pre-registration facilitates reproducibility by providing a clear, detailed record of the research plan. Other researchers can replicate the study or use the original design to inform their own research.\nEncourages Clearer Study Design: Pre-registering forces researchers to carefully think through their study design, hypotheses, and analysis plan, leading to more thoughtful and well-designed studies.\nFor more reasons to preregister you may want to read this article.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Pre-Registrations</span>"
+    ]
+  },
+  {
+    "objectID": "preregistration.html#steps-for-pre-registration",
+    "href": "preregistration.html#steps-for-pre-registration",
+    "title": "5  Pre-Registrations",
+    "section": "5.4 Steps for Pre-Registration",
+    "text": "5.4 Steps for Pre-Registration\nA full tutorial on how to create a pre-registration at OSF is available here. Overall, ICArEHB researchers should follow these steps to successfully pre-register their studies:\n\nDevelop Your Study Design: Define your research questions, hypotheses, and methods. Carefully plan out how you will collect and analyze your data.\nChoose a Platform for Pre-Registration: Select a pre-registration platform that suits your research needs (e.g., OSF Registrations, see this link for a tutorial).\nSubmit Your Study Plan: Complete the pre-registration form, detailing your hypotheses, methodology, and analysis plans. Be as specific as possible to ensure that your study can be evaluated transparently.\nTime-Stamp and Make It Public: Once submitted, ensure that your pre-registration is time-stamped and publicly accessible (unless proprietary reasons prevent public sharing).\n\nUpdate as Necessary: If your study plan changes, update your pre-registration and document any deviations from the original plan in the final report. Transparency about changes is just as important as the original plan.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Pre-Registrations</span>"
+    ]
+  },
+  {
+    "objectID": "preregistration.html#checklist-for-pre-registration",
+    "href": "preregistration.html#checklist-for-pre-registration",
+    "title": "5  Pre-Registrations",
+    "section": "5.5 Checklist for Pre-Registration",
+    "text": "5.5 Checklist for Pre-Registration\nBefore conducting your study, use the following checklist to ensure that your pre-registration process is complete:\nStudy Design:\n\nHave I clearly defined my research questions and hypotheses?\nHave I outlined a detailed plan for data collection, including the population, sample size, and measurement tools?\n\nAnalysis Plan:\n\nHave I specified the statistical or qualitative analysis methods that I will use to test my hypotheses?\nHave I outlined how I will handle outliers, missing data, or any other issues that may arise during analysis?\n\nPlatform Selection:\n\nHave I selected the appropriate platform for pre-registration (e.g., OSF)?\nHave I reviewed the platform’s guidelines to ensure that my pre-registration is compliant?\n\nTime-Stamping and Public Access:\n\nHave I ensured that my pre-registration is time-stamped and made publicly accessible?\nIf there are restrictions on public access, have I documented the reasons?\n\nReporting and Deviations:\n\nAm I prepared to disclose my pre-registration status in any resulting publications?\nIf deviations from the original plan occur, am I ready to document and explain these changes transparently?",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Pre-Registrations</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "6  Methods, Protocols, and Code Sharing",
+    "section": "",
+    "text": "6.1 Policy on Sharing Methods, Protocols, and Code\nICArEHB is committed to making research methods, protocols, and code openly accessible to ensure transparency, reproducibility, and reusability of research outputs. All research projects that involve the use of custom protocols, methods, or code must make these resources available in an open-access repository.\nMandatory Sharing\nICArEHB requires researchers to share the methods, protocols, and code used in their research, particularly those that are essential for replicating the study or advancing further work.\nOpen Protocols\nAll research protocols should be openly accessible to ensure that others can replicate or adapt the research. Protocols provide a detailed step-by-step guide to conducting experiments or fieldwork, ensuring that methods can be transparently followed.\nTimely Accessibility\nMethods, protocols, and code must be shared no later than the publication of the associated research paper and should preferably be available during peer review.\nCompliance with Ethical and Legal Standards\nWhile transparency is key, sharing methods, protocols, and code should not violate ethical agreements, intellectual property rights, or privacy concerns.\nProper Documentation\nAll methods, protocols, and code must be properly documented to ensure that others can understand and reuse them.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Methods, Protocols, and Code Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html#platforms-for-sharing-methods-protocols-and-code",
+    "href": "methods.html#platforms-for-sharing-methods-protocols-and-code",
+    "title": "6  Methods, Protocols, and Code Sharing",
+    "section": "6.2 Platforms for Sharing Methods, Protocols, and Code",
+    "text": "6.2 Platforms for Sharing Methods, Protocols, and Code\nResearchers should use reputable, open-access platforms to share their methods, protocols, and code. These platforms allow for the secure and long-term preservation of resources while enabling others to access, review, and reuse them.\nRecommended platforms include:\n\nOSF (Open Science Framework): OSF supports the sharing of research protocols, methods, and code. Researchers can upload and version their methods alongside data, preprints, and other research outputs, making it a one-stop platform for open research.\nProtocols.io: Protocols.io is a dedicated platform for sharing detailed, step-by-step experimental protocols in various fields, from biology to archaeology. It allows researchers to publish and update protocols, receive feedback, and make them openly available for others to replicate.\nGitHub: GitHub is widely used for sharing and collaborating on code. Researchers can create repositories for their projects, document their code, and use version control to track changes. GitHub integrates with other platforms like Zenodo to ensure long-term preservation.\nZenodo: Zenodo, developed by CERN, allows researchers to archive and share datasets, code, and protocols. It integrates with GitHub to provide DOIs for code repositories, ensuring long-term accessibility and citation.\nGitLab: GitLab offers similar features to GitHub but allows for more control over hosting and infrastructure. It is a good choice for research projects requiring private repositories or internal hosting.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Methods, Protocols, and Code Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html#best-practices-for-sharing-methods-protocols-and-code",
+    "href": "methods.html#best-practices-for-sharing-methods-protocols-and-code",
+    "title": "6  Methods, Protocols, and Code Sharing",
+    "section": "6.3 Best Practices for Sharing Methods, Protocols, and Code",
+    "text": "6.3 Best Practices for Sharing Methods, Protocols, and Code\nTo ensure that methods, protocols, and code are accessible, reusable, and understandable, researchers should follow these best practices when sharing their work:\nUse Version Control:\n\nVersion control (e.g., Git) is essential for tracking changes to protocols and code, ensuring that previous versions are available and that collaborators can contribute without conflicts.\n\nProvide Detailed Documentation:\n\nFor protocols: Include step-by-step instructions for experimental procedures, fieldwork, or data collection, ensuring that all materials, equipment, and conditions are documented.\nFor code: Include README files that explain the code’s purpose, usage instructions, dependencies, and installation requirements. Use inline comments to clarify complex code sections.\n\nEnsure Reproducibility:\n\nProtocols should be described in enough detail that others can replicate the research without ambiguity. Provide exact specifications for equipment, materials, and procedures, and include any contingencies for potential deviations.\nFor code, ensure that all dependencies (e.g., specific libraries, software versions) are clearly stated, and include any necessary installation instructions.\n\nKeep Code and Protocols Modular:\n\nBreak protocols and code into smaller, reusable components. This approach makes it easier to update parts of the workflow without affecting the whole, and it facilitates reuse in other projects.\n\nUse Standard Formats and Terminology:\n\nFor protocols, use standardized formats and terminology whenever possible, referencing established procedures or guidelines. This ensures consistency and enables comparison with similar studies.\nFor code, use widely recognized programming languages (e.g., Python, R) and avoid proprietary formats that require special software or licenses.\n\nRegularly Update:\n\nBoth methods and protocols may evolve during the course of research. Keep protocols up-to-date, versioning any changes, and ensure that the latest version is always available.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Methods, Protocols, and Code Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "methods.html#licensing-code-and-protocols",
+    "href": "methods.html#licensing-code-and-protocols",
+    "title": "6  Methods, Protocols, and Code Sharing",
+    "section": "6.4 Licensing Code and Protocols",
+    "text": "6.4 Licensing Code and Protocols\nLicensing is a critical part of sharing both protocols and code. It defines how others can reuse, modify, and distribute your work. ICArEHB researchers are encouraged to use open licenses that align with the principles of Open Science.\nCommon licenses for sharing code and protocols include:\nCreative Commons (CC-BY, CC0)\nFor protocols, CC-BY (attribution) allows others to use and adapt the protocol as long as they give credit to the original author. CC0 places the protocol in the public domain, allowing anyone to use it without restrictions.\nMIT License (for code) A permissive open-source license that allows others to use, copy, modify, and distribute the code. It is minimal in restrictions, making it one of the most widely used open-source licenses.\nGNU General Public License (GPL) The GPL ensures that any derivative works created using your code must also be open and licensed under the same terms. This ensures that any improvements or modifications remain open to the community.\nApache License 2.0 A permissive license that allows for reuse and modification of the code, while requiring that original copyrights and disclaimers are maintained in derivative works.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Methods, Protocols, and Code Sharing</span>"
+    ]
+  },
+  {
+    "objectID": "peerreview.html",
+    "href": "peerreview.html",
+    "title": "7  Open Peer Review",
+    "section": "",
+    "text": "7.1 Policy on Open Peer Review\nICArEHB supports and encourages its researchers to participate in Open Peer Review as both reviewers and authors. Open peer review enhances transparency by making the review process more open and accountable, ensuring that both the content and quality of reviews can be assessed. ICArEHB researchers are encouraged to embrace this model, which aligns with the broader goals of Open Science.\nEncouragement of Open Peer Review\nResearchers should engage in open peer review whenever possible, as it increases transparency and accountability in the scientific process.\nDisclosure of Peer Review\nWhen submitting research for publication, ICArEHB researchers are encouraged to disclose the peer review status of the journal (e.g., whether it uses open, single-blind, or double-blind review).\nPublic Availability of Reviews\nWhen acting as reviewers, ICArEHB researchers are encouraged to allow their review reports to be made publicly available, either with or without disclosing their identity, depending on the journal’s policies.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Open Peer Review</span>"
+    ]
+  },
+  {
+    "objectID": "peerreview.html#opportunities-for-open-peer-review",
+    "href": "peerreview.html#opportunities-for-open-peer-review",
+    "title": "7  Open Peer Review",
+    "section": "7.2 Opportunities for Open Peer Review",
+    "text": "7.2 Opportunities for Open Peer Review\nMany journals and platforms now offer Open Peer Review options. ICArEHB encourages researchers to both publish in and review for journals that support these practices. The main forms of open peer review include:\nPublic Reviewer Reports:\n\nReviewer reports are published alongside the article, providing readers with insight into the feedback and suggestions that shaped the final version of the paper. This enhances transparency and can improve the quality of both the review and the research.\n\nOpen Identity of Reviewers:\n\nIn some open peer review models, the identities of the reviewers are disclosed either during or after the review process. This creates accountability and recognition for reviewers, and can foster constructive, respectful feedback.\n\nCollaborative Peer Review:\n\nSome journals enable a more collaborative form of peer review, where authors and reviewers engage in dialogue during the review process, improving the manuscript through direct interaction. This can result in more thorough and constructive reviews.\n\n\nPlatforms supporting Open Peer Review:\n\nOpen Research Europe: A platform funded by the European Commission that uses an open peer review process. Articles are reviewed after publication, and reviewer reports are published with the names of the reviewers and their feedback.\nPeerJ: Offers open peer review as an option, where review reports are published, and reviewers can choose whether or not to disclose their names.\nPublons: While not a publisher, Publons allows reviewers to track and publicly display their peer review contributions across journals, encouraging transparency and providing recognition for peer reviewing efforts.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Open Peer Review</span>"
+    ]
+  },
+  {
+    "objectID": "peerreview.html#best-practices-for-peer-review",
+    "href": "peerreview.html#best-practices-for-peer-review",
+    "title": "7  Open Peer Review",
+    "section": "7.3 Best Practices for Peer Review",
+    "text": "7.3 Best Practices for Peer Review\nEngaging in peer review, whether open or traditional, is a critical responsibility for researchers. To ensure that peer reviews are constructive, ethical, and aligned with Open Science principles, ICArEHB researchers should follow these best practices:\nProvide Constructive Feedback:\n\nReviews should be detailed, respectful, and aimed at improving the manuscript. Criticisms should be constructive and include actionable suggestions for improvement.\nFocus on the content, methodology, and interpretation of the research, ensuring that the study is scientifically sound and conclusions are supported by the data.\n\nMaintain Objectivity:\n\nReviews should be unbiased and based solely on the merits of the research, regardless of the author’s reputation, institution, or previous work. Avoid personal or ad hominem attacks.\n\nDisclose Conflicts of Interest:\n\nIf you have any conflict of interest that could bias your review (e.g., competing research, personal relationships with the authors), you must disclose this to the editor or decline to review the manuscript.\n\nBe Transparent and Ethical:\n\nWhen participating in open peer review, transparency is key. Provide clear, well-reasoned comments that can be publicly shared if requested.\nReviewers should never misuse privileged information gained through peer review (e.g., sharing data or ideas from the manuscript under review).\n\nAdhere to Timelines:\n\nPeer reviews should be completed within the timeframe provided by the journal. If delays are unavoidable, notify the editor as soon as possible.\n\nRespect Confidentiality:\n\nIf reviewing for a journal that follows a blinded or traditional peer review process, the content of the manuscript and the review should remain confidential until publication.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Open Peer Review</span>"
+    ]
+  },
+  {
+    "objectID": "peerreview.html#reviewer-recognition",
+    "href": "peerreview.html#reviewer-recognition",
+    "title": "7  Open Peer Review",
+    "section": "7.4 Reviewer Recognition",
+    "text": "7.4 Reviewer Recognition\nRecognizing the vital contribution of reviewers to the scientific process, ICArEHB encourages its researchers to seek and accept recognition for their peer review work. Reviewer recognition increases accountability and allows reviewers to build a portfolio of their contributions.\nPublons:\n\nResearchers can use Publons to track, verify, and showcase their peer review work. Publons integrates with many journals to automatically record reviews, allowing reviewers to receive recognition for their efforts without compromising the confidentiality of the review process.\n\nORCID:\n\nORCID profiles allow researchers to link their peer review contributions to their unique researcher identifier, providing an easily accessible record of their reviewing activity.\n\nAcknowledgment in Publications:\n\nMany journals that use open peer review will publicly acknowledge reviewers, either by listing their names in the published article or by making their review reports available with their identity.\n\nInstitutional Recognition:\n\nICArEHB encourages its researchers to list peer review activities in their professional evaluations and annual reports. Peer review is considered a valuable contribution to the scientific community, and ICArEHB recognizes it as an important component of academic service.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Open Peer Review</span>"
+    ]
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "8  Tools and Resources for Open Science",
+    "section": "",
+    "text": "8.1 Approved Tools and Platforms\nICArEHB recommends and supports a range of Open Science tools and platforms to ensure that research outputs - data, protocols, methods, code, and publications - are openly accessible, reproducible, and reusable. These platforms facilitate various aspects of the research lifecycle, from study planning and data management to publication and peer review.\nOSF (Open Science Framework): OSF is the preferred platform at ICArEHB for managing and sharing research projects, data, and preprints. It provides a secure and flexible environment where researchers can store files, collaborate with colleagues, and share their work openly. Key features:\nProtocols.io: Protocols.io is the recommended platform for sharing detailed research protocols, enabling transparency in experimental and methodological practices. Key features:\nGitHub and GitLab: Widely used for sharing and collaborating on code, GitHub and GitLab offer robust version control and integration with platforms like OSF for long-term preservation.\nZenodo: Ideal for sharing datasets, software, and publications. Zenodo provides DOIs (Digital Object Identifiers), ensuring that shared materials are citable and accessible.\nFigshare: A platform for storing and sharing datasets, figures, and other research outputs. Figshare allows for easy data sharing and citation.\nEuropean Comission Open Cloud",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tools and Resources for Open Science</span>"
+    ]
+  },
+  {
+    "objectID": "tools.html#approved-tools-and-platforms",
+    "href": "tools.html#approved-tools-and-platforms",
+    "title": "8  Tools and Resources for Open Science",
+    "section": "",
+    "text": "Data storage and management.\nProject collaboration and version control.\nProvides DOI\nPreprint hosting and study pre-registration.\nIntegration with other tools like GitHub and Cloud Services for seamless workflows.\nOSF is particularly useful for multi-phase research projects, where different outputs - such as data, code, and preprints - can be linked together and accessed in one place.\n\n\n\nStep-by-step protocol sharing for laboratory, field, and computational methods.\nProtocol versioning and updates, ensuring reproducibility.\nCollaborative features for co-developing protocols with colleagues.\nResearchers can use Protocols.io to share methodologies and ensure that others can replicate or build on their experiments.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tools and Resources for Open Science</span>"
+    ]
+  },
+  {
+    "objectID": "tools.html#templates-and-forms",
+    "href": "tools.html#templates-and-forms",
+    "title": "8  Tools and Resources for Open Science",
+    "section": "8.2 Templates and Forms",
+    "text": "8.2 Templates and Forms\nTo streamline the adoption of Open Science practices, ICArEHB provides templates and forms that guide researchers through essential processes like data management, pre-registration, and protocol development. These resources help ensure compliance with funder and institutional requirements while promoting best practices.\nData Management Plan (DMP) Templates:\n\nFCT DMP Template: A template designed to help researchers create a Data Management Plan that complies with FCT (Fundação para a Ciência e a Tecnologia) guidelines, ensuring proper planning for data collection, storage, and sharing.\nERC DMP Template: A template aligned with European Research Council requirements, ensuring that research data management practices meet European standards.\n\nOSF Project Templates\nTo use templates please follow the OSF instructions on how to create a project from template.\n\nICArEHB Article Template\nCourse Management Template\nResearch Group Management Template\nElectronic Lab Notebook Template\nResearch Teams Coordination Template\n\nPre-Registration Forms\n\nTemplates for pre-registration can be found on OSF. These forms help researchers outline their research hypotheses, study design, and analysis plan before data collection, increasing transparency and preventing practices like p-hacking.\n\nProtocol Templates\n\nProtocols.io Templates: These templates guide researchers in creating clear, detailed protocols that include step-by-step instructions for experiments, fieldwork, or data analysis.\n\nMetadata Templates\n\nReadme Metadata Template\nDublin Core Metadata Generator\n\nEthics and Consent Forms\n\nTemplates for informed consent, anonymization protocols, and data protection, ensuring that research involving human subjects complies with legal and ethical standards (e.g., GDPR compliance).",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tools and Resources for Open Science</span>"
+    ]
+  },
+  {
+    "objectID": "tools.html#training-resources",
+    "href": "tools.html#training-resources",
+    "title": "8  Tools and Resources for Open Science",
+    "section": "8.3 Training Resources",
+    "text": "8.3 Training Resources\nThese resources aim to equip researchers with the skills and knowledge needed to use Open Science tools effectively.\nWorkshops and Webinars\n\nTraining workshops on using OSF, and other platforms. These sessions cover how to set up a project, share data, pre-register studies, and collaborate using these tools.\nWorkshops hosted by external Open Science experts at ICArEHB, focusing on emerging practices and new tools in the Open Science landscape. Check the following links for our 2024 Workshop Introduction to Open Science by Dr. Ben Marwick:\n\nDay 1\nDay 2\nDay 3\nSlides\n\n\nOnline Tutorials and Guides\n\nOSF Support: Offers tutorials, FAQs, and guides on setting up projects, sharing data, and integrating OSF with other tools.\nProtocols.io Tutorials: Provides step-by-step guides for uploading, sharing, and updating protocols, as well as tips for ensuring reproducibility.\nGitHub Documentation: Comprehensive documentation and tutorials on using GitHub for version control\nZenodo Documentation: Comprehensive documentation and tutorials on using Zenodo for archiving and sharing research outputs.\nJournal of Archaeological Science guidelines on reproducibility: Brief guidance on preparing submissions for a reproducibility review.\n\nPeer Support and Mentorship\n\nICArEHB encourages the development of peer support groups, where experienced researchers can mentor colleagues in Open Science practices. These groups provide hands-on guidance and troubleshooting for using OSF, Protocols.io, and other platforms.\n\nExternal Resources\n\nAccess to external training programs such as FOSTER (Facilitate Open Science Training for European Research), which offers free e-learning courses and training on a wide range of Open Science topics.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Tools and Resources for Open Science</span>"
+    ]
+  },
+  {
+    "objectID": "improvements.html",
+    "href": "improvements.html",
+    "title": "9  Continuous Improvements and Updates",
+    "section": "",
+    "text": "9.1 Policy Review Cycle\nICArEHB will maintain up-to-date and relevant Open Science policies that reflect the latest developments in the field. To achieve this, a structured policy review cycle is in place:\nAnnual Review\nThe ICArEHB Open Science Committee will conduct a comprehensive review of the Open Science Handbook annually. This review will assess the effectiveness of current policies, identify areas for improvement, and ensure that the handbook reflects the latest standards, technologies, and best practices in Open Science.\nAd hoc Updates In addition to the annual review, the committee will make ad hoc updates as necessary. These updates may be prompted by significant changes in the Open Science landscape, such as new funder requirements, the introduction of groundbreaking tools or platforms, or feedback from the ICArEHB community.\nAlignment with External Standards ICArEHB's policies will be regularly cross-referenced with key external frameworks, such as Plan S, the European Open Science Cloud (EOSC), and policies from major funders like the European Research Council (ERC) and FCT. This ensures that ICArEHB's policies remain compliant with global standards and funder mandates.\nVersioning and Documentation All updates to the handbook will be communicated to ICArEHB researchers. The updated handbook will be shared via email and made available on the ICArEHB website, ensuring that all researchers have access to the latest information.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Continuous Improvements and Updates</span>"
+    ]
+  },
+  {
+    "objectID": "improvements.html#feedback-and-contributions",
+    "href": "improvements.html#feedback-and-contributions",
+    "title": "9  Continuous Improvements and Updates",
+    "section": "9.2 Feedback and Contributions",
+    "text": "9.2 Feedback and Contributions\nICArEHB recognizes that its researchers are integral to the continuous improvement of the Open Science Handbook. Feedback from the research community is essential to ensure that the policies remain relevant, practical, and effective. The following mechanisms are in place to facilitate ongoing input from ICArEHB members.\nOpen Feedback Channels\n\nResearchers are encouraged to provide feedback on the Open Science Handbook through email to openscience@icarehb.com. These forms allow researchers to suggest updates, point out areas for clarification, or propose new tools and practices for consideration.\nDirect feedback can also be submitted during the annual ICArEHB’s Open Science Day, where ICArEHB researchers can participate in discussions on how to enhance Open Science practices across the center.\n\nResearcher Contributions\n\nICArEHB researchers who have implemented innovative Open Science practices or developed new tools are encouraged to contribute to the handbook. Contributions may include case studies, examples of best practices, or the integration of new platforms and methods into the institution's Open Science framework.\nContributions can be submitted to the ICArEHB Open Science Committee, which will review and incorporate relevant suggestions during the policy review cycle.\n\nAdvisory Board Consultation\n\nThe ICArEHB External Advisory Committee, comprising one external Open Science expert, will be consulted annually to provide external perspectives on best practices, emerging trends, and global standards in Open Science.\nThe Committee will offer recommendations on how ICArEHB can align its practices with international Open Science initiatives and ensure continuous improvement.\n\nContinuous Learning and Adaptation\n\nAs Open Science tools and practices evolve, ICArEHB will provide ongoing training sessions and learning resources to keep researchers informed of the latest developments. These sessions will also be used to gather feedback on new tools and platforms, ensuring they are integrated into the handbook in a user-friendly and efficient manner.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Continuous Improvements and Updates</span>"
+    ]
+  },
+  {
+    "objectID": "glossary.html",
+    "href": "glossary.html",
+    "title": "Appendix A — Glossary of Open Science Terms",
+    "section": "",
+    "text": "APC (Article Processing Charge): A fee paid by the author (or their institution) to make an article freely accessible to the public in a Gold Open Access journal. This fee covers the costs of publishing and providing Open Access.\nCreative Commons (CC) Licenses: A set of open licenses that allow creators to specify how their work can be used and shared by others. CC-BY requires attribution, while CC0 places the work in the public domain.\nData Management Plan (DMP): A formal document that outlines how research data will be collected, organized, stored, shared, and preserved throughout and after the research project. DMPs are often required by funders.\nFAIR Principles: A set of guidelines for making data Findable, Accessible, Interoperable, and Reusable, ensuring data can be easily located, accessed, and reused by other researchers.\nGitHub: A web-based platform used for version control and collaborative development, particularly for code. Researchers use it to share code openly and track revisions.\nGitLab: Similar to GitHub, GitLab offers version control, collaborative development, and self-hosting options for projects that need private repositories or additional control over infrastructure.\nGold Open Access: A publishing model where the article is made freely available by the publisher immediately upon publication, often requiring the author to pay an Article Processing Charge (APC).\nGreen Open Access: A model in which authors deposit a version of their article (e.g., preprint or accepted manuscript) in an open repository, often after an embargo period imposed by the publisher.\nMetadata: Structured information that describes, explains, or provides context about data, making it easier to find, use, and understand. Metadata is essential for ensuring that data are FAIR (Findable, Accessible, Interoperable, and Reusable).\nOpen Access: The practice of making research outputs (e.g., publications, data) freely available to everyone, without access restrictions or paywalls.\nOpen Peer Review: A peer review process where review reports are made publicly available alongside the published article. Reviewer identities may or may not be disclosed.\nOpen Science Framework (OSF): An open platform that supports research project management, data sharing, preprints, and study pre-registration. OSF integrates with tools like GitHub and Zenodo.\nPreprint: A version of a scholarly paper that precedes formal peer review and publication in a scientific journal. Preprints are shared publicly to facilitate early dissemination and feedback.\nPre-registration: The process of registering a research study’s hypotheses, methods, and analysis plan before data collection begins, promoting transparency and preventing questionable research practices like p-hacking.\nProtocols.io: A platform for creating and sharing detailed, step-by-step research protocols. It allows researchers to publish, update, and collaborate on protocols, ensuring transparency and reproducibility.\nTrusted Repository: A repository that adheres to accepted standards for data storage, preservation, and access, ensuring that research data remain available over time. Trusted repositories, such as OSF and Zenodo, comply with FAIR principles.\nZenodo: An open-access repository developed by CERN that allows researchers to archive and share datasets, software, and research outputs. Zenodo assigns DOIs to shared materials, making them citable and accessible.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Glossary of Open Science Terms</span>"
+    ]
+  }
+]
